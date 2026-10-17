@@ -3,7 +3,7 @@ name: AI Daily Brief
 on:
   # ── Scheduled: every day at 6:30 AM IST = 01:00 UTC ────────────────────────
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "30 3 * * *"
 
   # ── Manual trigger (for testing without waiting for schedule) ────────────────
   workflow_dispatch:
