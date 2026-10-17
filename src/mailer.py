@@ -105,19 +105,24 @@ def send_email(
         logger.error("Email not sent: HTML body is empty or too short — refusing to send.")
         return False
 
-    msg = _build_message(sender, recipient, edition_date, html_body)
+    recipients = [r.strip() for r in recipient.replace(";", ",").split(",") if r.strip()]
+    if not recipients:
+        logger.error("Email not sent: No valid recipient addresses found in EMAIL_RECIPIENT.")
+        return False
+
+    msg = _build_message(sender, ", ".join(recipients), edition_date, html_body)
 
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            logger.info("Sending email (attempt %d/%d)…", attempt, MAX_RETRIES)
+            logger.info("Sending email (attempt %d/%d) to %d recipient(s)…", attempt, MAX_RETRIES, len(recipients))
             with smtplib.SMTP(SMTP_HOST, SMTP_PORT, timeout=30) as server:
                 server.ehlo()
                 server.starttls()
                 server.login(sender, password)
-                server.sendmail(sender, [recipient], msg.as_string())
+                server.sendmail(sender, recipients, msg.as_string())
             logger.info(
                 "✅ Email sent successfully to %s — Subject: '%s'",
-                recipient,
+                ", ".join(recipients),
                 msg["Subject"],
             )
             return True
