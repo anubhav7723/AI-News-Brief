@@ -1,0 +1,155 @@
+# AI Daily Brief — RSS Feed Configuration
+# Each feed has: url, name, category, priority (1=highest)
+# Categories match the story schema: llm_releases, agents, research,
+#   open_source, mlops, industry, safety, general_ai
+
+settings:
+  # Articles published within this many hours are considered "fresh"
+  max_age_hours: 36
+  # Maximum articles to fetch per feed
+  max_per_feed: 30
+  # Request timeout in seconds
+  request_timeout: 15
+  # User-Agent for feed fetching
+  user_agent: "AI-Daily-Brief/1.0 (+https://github.com/yourusername/AI-Daily-Brief)"
+
+feeds:
+  # ── LLM / Foundation Models ────────────────────────────────────────────
+  - url: "https://openai.com/blog/rss.xml"
+    name: "OpenAI Blog"
+    category: "llm_releases"
+    priority: 1
+
+  - url: "https://www.anthropic.com/rss.xml"
+    name: "Anthropic Blog"
+    category: "llm_releases"
+    priority: 1
+
+  - url: "https://blog.google/technology/ai/rss/"
+    name: "Google AI Blog"
+    category: "llm_releases"
+    priority: 1
+
+  - url: "https://ai.meta.com/blog/rss/"
+    name: "Meta AI Blog"
+    category: "llm_releases"
+    priority: 1
+
+  - url: "https://mistral.ai/feed.xml"
+    name: "Mistral AI Blog"
+    category: "llm_releases"
+    priority: 2
+
+  # ── AI Research Papers ─────────────────────────────────────────────────
+  - url: "http://arxiv.org/rss/cs.AI"
+    name: "arXiv cs.AI"
+    category: "research"
+    priority: 2
+
+  - url: "http://arxiv.org/rss/cs.LG"
+    name: "arXiv cs.LG"
+    category: "research"
+    priority: 2
+
+  - url: "http://arxiv.org/rss/cs.CL"
+    name: "arXiv cs.CL (NLP)"
+    category: "research"
+    priority: 2
+
+  - url: "https://paperswithcode.com/latest.rss"
+    name: "Papers With Code"
+    category: "research"
+    priority: 2
+
+  # ── Agents & Automation ────────────────────────────────────────────────
+  - url: "https://www.langchain.com/blog/rss.xml"
+    name: "LangChain Blog"
+    category: "agents"
+    priority: 2
+
+  # ── Open-Source / Developer Tools ─────────────────────────────────────
+  - url: "https://huggingface.co/blog/feed.xml"
+    name: "Hugging Face Blog"
+    category: "open_source"
+    priority: 1
+
+  - url: "https://github.blog/feed/"
+    name: "GitHub Blog"
+    category: "open_source"
+    priority: 3
+
+  # ── MLOps / Infrastructure ─────────────────────────────────────────────
+  - url: "https://www.deeplearning.ai/the-batch/feed/"
+    name: "DeepLearning.AI — The Batch"
+    category: "mlops"
+    priority: 1
+
+  # ── Industry News ──────────────────────────────────────────────────────
+  - url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    name: "TechCrunch AI"
+    category: "industry"
+    priority: 2
+
+  - url: "https://venturebeat.com/category/ai/feed/"
+    name: "VentureBeat AI"
+    category: "industry"
+    priority: 2
+
+  - url: "https://www.theverge.com/rss/index.xml"
+    name: "The Verge"
+    category: "industry"
+    priority: 3
+
+  - url: "https://feeds.feedburner.com/nvidiablog"
+    name: "NVIDIA Blog"
+    category: "mlops"
+    priority: 2
+
+  # ── AI Safety & Policy ─────────────────────────────────────────────────
+  - url: "https://www.safe.ai/blog?format=rss"
+    name: "Center for AI Safety"
+    category: "safety"
+    priority: 2
+
+  - url: "https://www.alignmentforum.org/feed.xml"
+    name: "AI Alignment Forum"
+    category: "safety"
+    priority: 3
+
+  # ── General AI / Aggregators ───────────────────────────────────────────
+  - url: "https://aiweekly.co/issues.rss"
+    name: "AI Weekly"
+    category: "general_ai"
+    priority: 2
+
+  - url: "https://importai.net/feed.rss"
+    name: "Import AI (Jack Clark)"
+    category: "general_ai"
+    priority: 2
+
+# Keywords that trigger automatic exclusion (case-insensitive)
+exclusion_keywords:
+  - "sponsored"
+  - "advertisement"
+  - "giveaway"
+  - "casino"
+  - "forex"
+  - "crypto pump"
+
+# Keywords that boost priority if found in title/description
+boost_keywords:
+  - "open source"
+  - "open-source"
+  - "released"
+  - "launches"
+  - "benchmark"
+  - "state-of-the-art"
+  - "SOTA"
+  - "research"
+  - "paper"
+  - "agentic"
+  - "multimodal"
+  - "fine-tuning"
+  - "inference"
+  - "RAG"
+  - "embedding"

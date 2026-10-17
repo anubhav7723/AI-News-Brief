@@ -1,0 +1,47 @@
+[
+  {
+    "title": "OpenAI releases GPT-5 with enhanced reasoning",
+    "url": "https://openai.com/blog/gpt-5",
+    "source_name": "OpenAI Blog",
+    "category": "llm_releases",
+    "published_at": "2026-10-17T06:00:00+00:00",
+    "description": "OpenAI today announced GPT-5, featuring significantly improved reasoning capabilities and a 128k context window. The model achieves state-of-the-art performance on multiple benchmarks.",
+    "priority": 1
+  },
+  {
+    "title": "Hugging Face launches SmolLM2 open-source family",
+    "url": "https://huggingface.co/blog/smollm2",
+    "source_name": "Hugging Face Blog",
+    "category": "open_source",
+    "published_at": "2026-10-16T09:00:00+00:00",
+    "description": "Hugging Face releases SmolLM2, a family of small but capable language models optimized for on-device inference. Models range from 135M to 1.7B parameters.",
+    "priority": 1
+  },
+  {
+    "title": "New RAG technique achieves 95% accuracy on long-document QA",
+    "url": "https://arxiv.org/abs/2410.12345",
+    "source_name": "arXiv cs.CL",
+    "category": "rag",
+    "published_at": "2026-10-17T00:00:00+00:00",
+    "description": "Researchers propose HyperRAG, a hierarchical retrieval-augmented generation framework that handles documents up to 500 pages with minimal hallucination.",
+    "priority": 2
+  },
+  {
+    "title": "LangGraph adds multi-agent coordination primitives",
+    "url": "https://blog.langchain.dev/langgraph-multiagent",
+    "source_name": "LangChain Blog",
+    "category": "agents",
+    "published_at": "2026-10-16T14:00:00+00:00",
+    "description": "LangGraph v0.2 ships with supervisor and worker agent patterns, making it easier to build hierarchical multi-agent pipelines with state persistence.",
+    "priority": 2
+  },
+  {
+    "title": "NVIDIA announces H200 SXM availability in major cloud providers",
+    "url": "https://blogs.nvidia.com/h200-cloud",
+    "source_name": "NVIDIA Blog",
+    "category": "mlops",
+    "published_at": "2026-10-15T12:00:00+00:00",
+    "description": "NVIDIA H200 SXM GPUs are now available on AWS, Azure, and GCP, offering 141GB HBM3e memory and 4.8 TB/s memory bandwidth.",
+    "priority": 2
+  }
+]

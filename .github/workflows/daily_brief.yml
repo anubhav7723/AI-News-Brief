@@ -1,0 +1,99 @@
+name: AI Daily Brief
+
+on:
+  # ── Scheduled: every day at 6:30 AM IST = 01:00 UTC ────────────────────────
+  schedule:
+    - cron: "0 1 * * *"
+
+  # ── Manual trigger (for testing without waiting for schedule) ────────────────
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (render but do not send email)"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+      debug:
+        description: "Enable DEBUG logging"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+jobs:
+  daily-brief:
+    name: Generate & Send AI Daily Brief
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    permissions:
+      contents: write   # Needed to commit updated sent_stories.json back to repo
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch the full history so git push works even after commits
+          fetch-depth: 1
+
+      # ── 2. Python setup ─────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      # ── 3. Install dependencies ─────────────────────────────────────────────
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ── 4. Run pipeline ─────────────────────────────────────────────────────
+      - name: Run AI Daily Brief pipeline
+        env:
+          GROQ_API_KEY:      ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL:        ${{ vars.GROQ_MODEL || 'openai/gpt-oss-20b' }}
+          EMAIL_SENDER:      ${{ secrets.EMAIL_SENDER }}
+          EMAIL_PASSWORD:    ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_RECIPIENT:   ${{ secrets.EMAIL_RECIPIENT }}
+          LOG_LEVEL:         ${{ github.event.inputs.debug == 'true' && 'DEBUG' || 'INFO' }}
+        run: |
+          DRY_RUN_FLAG=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            DRY_RUN_FLAG="--dry-run"
+            echo "Running in DRY RUN mode — email will not be sent."
+          fi
+          python main.py $DRY_RUN_FLAG
+
+      # ── 5. Commit updated history back to repo ──────────────────────────────
+      - name: Commit updated sent_stories.json
+        # Only commit if the history file actually changed
+        run: |
+          git config user.name  "AI Daily Brief Bot"
+          git config user.email "actions@github.com"
+
+          if git diff --quiet data/sent_stories.json 2>/dev/null; then
+            echo "No changes to sent_stories.json — skipping commit."
+          else
+            git add data/sent_stories.json
+            git commit -m "chore: update sent_stories history [skip ci]"
+            git push
+            echo "History committed and pushed."
+          fi
+
+      # ── 6. Upload HTML preview as artifact (dry-run only) ───────────────────
+      - name: Upload HTML preview
+        if: github.event.inputs.dry_run == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: email-preview
+          path: data/preview_*.html
+          if-no-files-found: ignore
+          retention-days: 7

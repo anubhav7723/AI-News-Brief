@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>AI Daily Brief — {{ edition_date }}</title>
+  <style>
+    /* ─── Reset ─────────────────────────────────────────────────────────── */
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      background: #f5f5f0;
+      color: #1a1a1a;
+      line-height: 1.65;
+      font-size: 15px;
+    }
+
+    /* ─── Wrapper ────────────────────────────────────────────────────────── */
+    .wrapper {
+      max-width: 680px;
+      margin: 0 auto;
+      background: #ffffff;
+      border: 1px solid #d4d0c8;
+    }
+
+    /* ─── Masthead ───────────────────────────────────────────────────────── */
+    .masthead {
+      background: #111111;
+      color: #ffffff;
+      text-align: center;
+      padding: 28px 24px 20px;
+      border-bottom: 4px solid #e8b84b;
+    }
+    .masthead .title {
+      font-family: 'Georgia', serif;
+      font-size: 34px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: #ffffff;
+    }
+    .masthead .tagline {
+      font-size: 11px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: #aaaaaa;
+      margin-top: 6px;
+    }
+    .masthead .meta {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 12px;
+      color: #cccccc;
+      margin-top: 14px;
+      border-top: 1px solid #333333;
+      padding-top: 10px;
+    }
+
+    /* ─── Section Header ─────────────────────────────────────────────────── */
+    .section-header {
+      background: #1a1a2e;
+      color: #ffffff;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      padding: 8px 20px;
+      margin-top: 0;
+    }
+
+    /* ─── Top Stories Banner ─────────────────────────────────────────────── */
+    .top-banner {
+      background: #fffbf0;
+      border-bottom: 3px double #d4d0c8;
+      padding: 20px 24px;
+    }
+    .top-banner .banner-label {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: #888888;
+      margin-bottom: 14px;
+    }
+    .top-story {
+      border-left: 3px solid #e8b84b;
+      padding: 8px 0 8px 14px;
+      margin-bottom: 14px;
+    }
+    .top-story:last-child { margin-bottom: 0; }
+    .top-story .rank {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      color: #e8b84b;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+    }
+    .top-story a {
+      display: block;
+      font-size: 16px;
+      font-weight: 700;
+      color: #111111;
+      text-decoration: none;
+      line-height: 1.3;
+      margin: 3px 0;
+    }
+    .top-story a:hover { color: #1a56db; text-decoration: underline; }
+    .top-story .source-chip {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 11px;
+      color: #666666;
+    }
+
+    /* ─── Story Card ─────────────────────────────────────────────────────── */
+    .story-card {
+      padding: 18px 24px;
+      border-bottom: 1px solid #e8e4dc;
+    }
+    .story-card:last-child { border-bottom: none; }
+    .story-card .story-source {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #888888;
+      margin-bottom: 5px;
+    }
+    .story-card h3 a {
+      font-size: 17px;
+      font-weight: 700;
+      color: #111111;
+      text-decoration: none;
+      line-height: 1.3;
+    }
+    .story-card h3 a:hover { color: #1a56db; text-decoration: underline; }
+    .story-card .summary {
+      font-size: 14px;
+      color: #333333;
+      margin-top: 8px;
+      line-height: 1.6;
+    }
+    .story-card .why-matters {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 13px;
+      color: #1a56db;
+      margin-top: 8px;
+      padding: 8px 10px;
+      background: #eff6ff;
+      border-radius: 4px;
+      line-height: 1.5;
+    }
+    .story-card .why-matters::before { content: "💡 "; }
+    .story-card .takeaway {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 12px;
+      color: #065f46;
+      margin-top: 7px;
+      padding: 7px 10px;
+      background: #ecfdf5;
+      border-radius: 4px;
+      line-height: 1.5;
+    }
+    .story-card .takeaway::before { content: "🔬 Try: "; font-weight: 700; }
+    .story-card .meta-row {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 11px;
+      color: #999999;
+      margin-top: 8px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .confidence-dot {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+    }
+
+    /* ─── Learn Today Box ────────────────────────────────────────────────── */
+    .learn-box {
+      background: #1a1a2e;
+      color: #ffffff;
+      padding: 18px 24px;
+      margin: 0;
+    }
+    .learn-box .learn-label {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: #e8b84b;
+      margin-bottom: 8px;
+    }
+    .learn-box p {
+      font-size: 14px;
+      line-height: 1.6;
+      color: #e0e0e0;
+    }
+
+    /* ─── Footer ─────────────────────────────────────────────────────────── */
+    .footer {
+      background: #111111;
+      text-align: center;
+      padding: 16px 24px;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 11px;
+      color: #888888;
+      line-height: 1.8;
+    }
+    .footer a { color: #aaaaaa; }
+
+    /* ─── Responsive ─────────────────────────────────────────────────────── */
+    @media (max-width: 600px) {
+      .masthead .title { font-size: 26px; }
+      .story-card, .top-banner { padding: 14px 16px; }
+      .section-header { padding: 8px 16px; }
+    }
+  </style>
+</head>
+<body>
+<div class="wrapper">
+
+  <!-- ── MASTHEAD ─────────────────────────────────────────────────────────── -->
+  <div class="masthead">
+    <div class="title">AI Daily Brief</div>
+    <div class="tagline">Your morning intelligence on artificial intelligence</div>
+    <div class="meta">
+      {{ edition_date }} &nbsp;·&nbsp; {{ total_stories }} stories &nbsp;·&nbsp; Generated at {{ generated_at }}
+    </div>
+  </div>
+
+  <!-- ── TOP STORIES ───────────────────────────────────────────────────────── -->
+  {% if top_stories %}
+  <div class="top-banner">
+    <div class="banner-label">⭐ Today's Top Stories</div>
+    {% for story in top_stories %}
+    <div class="top-story">
+      <div class="rank">No. {{ story.rank }}</div>
+      <a href="{{ story.original_url }}" target="_blank" rel="noopener noreferrer">{{ story.headline }}</a>
+      <div class="source-chip">{{ story.source_name }}{% if story.published_at %} · {{ story.published_at[:10] }}{% endif %}</div>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <!-- ── STORY SECTIONS ───────────────────────────────────────────────────── -->
+  {% for section in sections %}
+  <div class="section-header">{{ section.label }}</div>
+
+  {% for story in section.stories %}
+  <div class="story-card">
+    <div class="story-source">{{ story.source_name }}</div>
+    <h3><a href="{{ story.original_url }}" target="_blank" rel="noopener noreferrer">{{ story.headline }}</a></h3>
+    <p class="summary">{{ story.summary }}</p>
+    {% if story.why_it_matters %}
+    <div class="why-matters">{{ story.why_it_matters }}</div>
+    {% endif %}
+    {% if story.technical_takeaway %}
+    <div class="takeaway">{{ story.technical_takeaway }}</div>
+    {% endif %}
+    <div class="meta-row">
+      <span>
+        <span class="confidence-dot" style="background:{{ confidence_colors[story.confidence.value] }}"></span>
+        &nbsp;{{ story.confidence.value | capitalize }} confidence
+      </span>
+      {% if story.published_at %}
+      <span>📅 {{ story.published_at[:10] }}</span>
+      {% endif %}
+      <a href="{{ story.original_url }}" target="_blank" rel="noopener noreferrer"
+         style="color:#1a56db; text-decoration:none;">Read original →</a>
+    </div>
+  </div>
+  {% endfor %}
+  {% endfor %}
+
+  <!-- ── LEARN TODAY ───────────────────────────────────────────────────────── -->
+  {% if learn_today %}
+  <div class="learn-box">
+    <div class="learn-label">📚 What to learn or try today</div>
+    <p>{{ learn_today }}</p>
+  </div>
+  {% endif %}
+
+  <!-- ── FOOTER ────────────────────────────────────────────────────────────── -->
+  <div class="footer">
+    AI Daily Brief is generated automatically using OpenAI GPT-OSS on Groq.<br />
+    All summaries are AI-generated from public sources. Verify claims before acting.<br />
+    Stories are attributed to their original sources — links above open the originals.
+  </div>
+
+</div>
+</body>
+</html>
