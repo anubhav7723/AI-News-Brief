@@ -166,5 +166,89 @@
     "title": "Apple&#8217;s HomeView has an app problem",
     "send_date": "2026-10-17T12:53:08.893399+00:00",
     "edition_date": "17 October 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "normalised_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "send_date": "2026-10-18T08:14:25.213950+00:00",
+    "edition_date": "18 October 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "normalised_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "send_date": "2026-10-18T08:14:25.213950+00:00",
+    "edition_date": "18 October 2026"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+    "normalised_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+    "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+    "send_date": "2026-10-18T08:14:25.213950+00:00",
+    "edition_date": "18 October 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "normalised_url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "send_date": "2026-10-18T08:14:25.213950+00:00",
+    "edition_date": "18 October 2026"
+  },
+  {
+    "url": "https://aiweekly.co/issues/ai-made-midterm-ads-top-137-million-and-70-carry-no-ai-label",
+    "normalised_url": "https://aiweekly.co/issues/ai-made-midterm-ads-top-137-million-and-70-carry-no-ai-label",
+    "title": "AI Weekly Issue #539: AI-made midterm ads top $137 million, and 70% carry no AI label",
+    "send_date": "2026-10-18T08:14:25.213950+00:00",
+    "edition_date": "18 October 2026"
+  },
+  {
+    "url": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility",
+    "normalised_url": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility",
+    "title": "Deconfusing Corrigibility",
+    "send_date": "2026-10-18T08:14:25.213950+00:00",
+    "edition_date": "18 October 2026"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+    "normalised_url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+    "title": "TikTok bans Musk documentary account",
+    "send_date": "2026-10-18T08:14:25.213950+00:00",
+    "edition_date": "18 October 2026"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "normalised_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "title": "Websites are closing their doors to AI agents",
+    "send_date": "2026-10-18T08:14:25.213950+00:00",
+    "edition_date": "18 October 2026"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+    "normalised_url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+    "title": "Bose’s new wired earbuds are simple in the best way",
+    "send_date": "2026-10-18T08:14:25.213950+00:00",
+    "edition_date": "18 October 2026"
+  },
+  {
+    "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+    "normalised_url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+    "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+    "send_date": "2026-10-18T08:14:25.213950+00:00",
+    "edition_date": "18 October 2026"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "normalised_url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "title": "Meta removes language that may have allowed it to scrape news sites",
+    "send_date": "2026-10-18T08:14:25.213950+00:00",
+    "edition_date": "18 October 2026"
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
+    "normalised_url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
+    "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
+    "send_date": "2026-10-18T08:14:25.213950+00:00",
+    "edition_date": "18 October 2026"
   }
 ]
