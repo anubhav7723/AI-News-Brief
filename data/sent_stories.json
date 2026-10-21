@@ -334,5 +334,89 @@
     "title": "Repairing LLM-Generated Specifications with Deterministic Diagnosis",
     "send_date": "2026-10-19T09:12:20.958537+00:00",
     "edition_date": "19 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.26943",
+    "normalised_url": "https://arxiv.org/abs/2610.26943",
+    "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+    "send_date": "2026-10-21T08:48:05.096833+00:00",
+    "edition_date": "21 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27220",
+    "normalised_url": "https://arxiv.org/abs/2610.27220",
+    "title": "Sparse RL Relaxation for LLM Reasoning",
+    "send_date": "2026-10-21T08:48:05.096833+00:00",
+    "edition_date": "21 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27234",
+    "normalised_url": "https://arxiv.org/abs/2610.27234",
+    "title": "EGI-BENCH: An Enterprise General Intelligence Benchmark Suite",
+    "send_date": "2026-10-21T08:48:05.096833+00:00",
+    "edition_date": "21 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.26867",
+    "normalised_url": "https://arxiv.org/abs/2610.26867",
+    "title": "WaveCommitments: Private and Verifiable Speech-Agent Marketplaces",
+    "send_date": "2026-10-21T08:48:05.096833+00:00",
+    "edition_date": "21 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.26913",
+    "normalised_url": "https://arxiv.org/abs/2610.26913",
+    "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+    "send_date": "2026-10-21T08:48:05.096833+00:00",
+    "edition_date": "21 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.26941",
+    "normalised_url": "https://arxiv.org/abs/2610.26941",
+    "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
+    "send_date": "2026-10-21T08:48:05.096833+00:00",
+    "edition_date": "21 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27290",
+    "normalised_url": "https://arxiv.org/abs/2610.27290",
+    "title": "TEX: Test-Time Scaling Testing Agents via Execution-based Cross-Validation",
+    "send_date": "2026-10-21T08:48:05.096833+00:00",
+    "edition_date": "21 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.26926",
+    "normalised_url": "https://arxiv.org/abs/2610.26926",
+    "title": "AtomSD: Procedural Atom-Guided Self-Distillation for LLM Agents",
+    "send_date": "2026-10-21T08:48:05.096833+00:00",
+    "edition_date": "21 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.26937",
+    "normalised_url": "https://arxiv.org/abs/2610.26937",
+    "title": "Do We Need the Largest LLMs for Every Clinical Decision?",
+    "send_date": "2026-10-21T08:48:05.096833+00:00",
+    "edition_date": "21 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.26951",
+    "normalised_url": "https://arxiv.org/abs/2610.26951",
+    "title": "The Bottleneck Is Retrieval, Not Reading: Diagnosing Evidence-Based Generation with RAG for Long Context Question Answer",
+    "send_date": "2026-10-21T08:48:05.096833+00:00",
+    "edition_date": "21 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27233",
+    "normalised_url": "https://arxiv.org/abs/2610.27233",
+    "title": "MMedAgent-Plus: Scaling Multimodal Medical Agents across Modalities, Tasks and Workflows",
+    "send_date": "2026-10-21T08:48:05.096833+00:00",
+    "edition_date": "21 October 2026"
+  },
+  {
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "normalised_url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+    "title": "Southeast Asia’s digital economy to hit $368 billion",
+    "send_date": "2026-10-21T08:48:05.096833+00:00",
+    "edition_date": "21 October 2026"
   }
 ]
