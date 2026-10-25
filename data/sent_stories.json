@@ -1,257 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/itau-generative-ai",
-    "normalised_url": "https://openai.com/index/itau-generative-ai",
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "send_date": "2026-10-17T07:44:57.488978+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "normalised_url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "send_date": "2026-10-17T07:44:57.488978+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://huggingface.co/blog/reflection-beam",
-    "normalised_url": "https://huggingface.co/blog/reflection-beam",
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "send_date": "2026-10-17T07:44:57.488978+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "normalised_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "send_date": "2026-10-17T07:44:57.488978+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "normalised_url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "send_date": "2026-10-17T07:44:57.488978+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://openai.com/index/benefit-street-partners",
-    "normalised_url": "https://openai.com/index/benefit-street-partners",
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "send_date": "2026-10-17T07:44:57.488978+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "normalised_url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "send_date": "2026-10-17T07:44:57.488978+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "normalised_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet",
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "send_date": "2026-10-17T07:44:57.488978+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "normalised_url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it",
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "send_date": "2026-10-17T07:44:57.488978+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "normalised_url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "send_date": "2026-10-17T07:44:57.488978+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "normalised_url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever",
-    "title": "Jev is Vercel’s fastest-adopted AI model ever",
-    "send_date": "2026-10-17T07:44:57.488978+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "normalised_url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says",
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "send_date": "2026-10-17T07:44:57.488978+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-    "normalised_url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods",
-    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-    "send_date": "2026-10-17T12:53:08.893399+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-    "normalised_url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company",
-    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-    "send_date": "2026-10-17T12:53:08.893399+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "normalised_url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy",
-    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-    "send_date": "2026-10-17T12:53:08.893399+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
-    "normalised_url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
-    "title": "Apple’s HomeView is just the latest threat to online recipe writers",
-    "send_date": "2026-10-17T12:53:08.893399+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
-    "normalised_url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
-    "title": "It’s a dream week for tech docs",
-    "send_date": "2026-10-17T12:53:08.893399+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
-    "normalised_url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
-    "title": "The new Apple TV 4K just got its first (very small) discount",
-    "send_date": "2026-10-17T12:53:08.893399+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
-    "normalised_url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
-    "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
-    "send_date": "2026-10-17T12:53:08.893399+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-    "normalised_url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-    "title": "Why Apple is finally making its own smart home devices",
-    "send_date": "2026-10-17T12:53:08.893399+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-    "normalised_url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-    "title": "All the news about the iPhone Duo",
-    "send_date": "2026-10-17T12:53:08.893399+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-    "normalised_url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-    "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
-    "send_date": "2026-10-17T12:53:08.893399+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
-    "normalised_url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
-    "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
-    "send_date": "2026-10-17T12:53:08.893399+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
-    "normalised_url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
-    "title": "Apple&#8217;s HomeView has an app problem",
-    "send_date": "2026-10-17T12:53:08.893399+00:00",
-    "edition_date": "17 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "normalised_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "send_date": "2026-10-18T08:14:25.213950+00:00",
-    "edition_date": "18 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "normalised_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "send_date": "2026-10-18T08:14:25.213950+00:00",
-    "edition_date": "18 October 2026"
-  },
-  {
-    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-    "normalised_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
-    "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-    "send_date": "2026-10-18T08:14:25.213950+00:00",
-    "edition_date": "18 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "normalised_url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
-    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "send_date": "2026-10-18T08:14:25.213950+00:00",
-    "edition_date": "18 October 2026"
-  },
-  {
-    "url": "https://aiweekly.co/issues/ai-made-midterm-ads-top-137-million-and-70-carry-no-ai-label",
-    "normalised_url": "https://aiweekly.co/issues/ai-made-midterm-ads-top-137-million-and-70-carry-no-ai-label",
-    "title": "AI Weekly Issue #539: AI-made midterm ads top $137 million, and 70% carry no AI label",
-    "send_date": "2026-10-18T08:14:25.213950+00:00",
-    "edition_date": "18 October 2026"
-  },
-  {
-    "url": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility",
-    "normalised_url": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility",
-    "title": "Deconfusing Corrigibility",
-    "send_date": "2026-10-18T08:14:25.213950+00:00",
-    "edition_date": "18 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-    "normalised_url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-    "title": "TikTok bans Musk documentary account",
-    "send_date": "2026-10-18T08:14:25.213950+00:00",
-    "edition_date": "18 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "normalised_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "title": "Websites are closing their doors to AI agents",
-    "send_date": "2026-10-18T08:14:25.213950+00:00",
-    "edition_date": "18 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
-    "normalised_url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
-    "title": "Bose’s new wired earbuds are simple in the best way",
-    "send_date": "2026-10-18T08:14:25.213950+00:00",
-    "edition_date": "18 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-    "normalised_url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-    "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-    "send_date": "2026-10-18T08:14:25.213950+00:00",
-    "edition_date": "18 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "normalised_url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "title": "Meta removes language that may have allowed it to scrape news sites",
-    "send_date": "2026-10-18T08:14:25.213950+00:00",
-    "edition_date": "18 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
-    "normalised_url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
-    "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
-    "send_date": "2026-10-18T08:14:25.213950+00:00",
-    "edition_date": "18 October 2026"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.22805",
     "normalised_url": "https://arxiv.org/abs/2610.22805",
     "title": "Compression Precedes, Content Decides: Emergent Misalignment in Reward Models",
@@ -418,5 +166,89 @@
     "title": "Southeast Asia’s digital economy to hit $368 billion",
     "send_date": "2026-10-21T08:48:05.096833+00:00",
     "edition_date": "21 October 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "normalised_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "send_date": "2026-10-25T08:38:46.187249+00:00",
+    "edition_date": "25 October 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "normalised_url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
+    "title": "Block’s new voice model sounds eerily human",
+    "send_date": "2026-10-25T08:38:46.187249+00:00",
+    "edition_date": "25 October 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "normalised_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "send_date": "2026-10-25T08:38:46.187249+00:00",
+    "edition_date": "25 October 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "normalised_url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "send_date": "2026-10-25T08:38:46.187249+00:00",
+    "edition_date": "25 October 2026"
+  },
+  {
+    "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
+    "normalised_url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
+    "title": "Setting the Scene (Public v1; October 25)",
+    "send_date": "2026-10-25T08:38:46.187249+00:00",
+    "edition_date": "25 October 2026"
+  },
+  {
+    "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+    "normalised_url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+    "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+    "send_date": "2026-10-25T08:38:46.187249+00:00",
+    "edition_date": "25 October 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "normalised_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "send_date": "2026-10-25T08:38:46.187249+00:00",
+    "edition_date": "25 October 2026"
+  },
+  {
+    "url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
+    "normalised_url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
+    "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
+    "send_date": "2026-10-25T08:38:46.187249+00:00",
+    "edition_date": "25 October 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "normalised_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell",
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "send_date": "2026-10-25T08:38:46.187249+00:00",
+    "edition_date": "25 October 2026"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+    "normalised_url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+    "title": "What to expect from Apple’s ‘Pro and tell’ event",
+    "send_date": "2026-10-25T08:38:46.187249+00:00",
+    "edition_date": "25 October 2026"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "normalised_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "title": "Pennsylvania will require labels on AI-generated ads",
+    "send_date": "2026-10-25T08:38:46.187249+00:00",
+    "edition_date": "25 October 2026"
+  },
+  {
+    "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+    "normalised_url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+    "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+    "send_date": "2026-10-25T08:38:46.187249+00:00",
+    "edition_date": "25 October 2026"
   }
 ]
