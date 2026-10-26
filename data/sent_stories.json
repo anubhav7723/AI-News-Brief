@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.22805",
-    "normalised_url": "https://arxiv.org/abs/2610.22805",
-    "title": "Compression Precedes, Content Decides: Emergent Misalignment in Reward Models",
-    "send_date": "2026-10-19T09:12:20.958537+00:00",
-    "edition_date": "19 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22525",
-    "normalised_url": "https://arxiv.org/abs/2610.22525",
-    "title": "alkhder at AlexandriaX-2026: Context-Aware English-to-Dialectal Arabic Dialogue Translation with QLoRA-Fine-Tuned NileCh",
-    "send_date": "2026-10-19T09:12:20.958537+00:00",
-    "edition_date": "19 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22466",
-    "normalised_url": "https://arxiv.org/abs/2610.22466",
-    "title": "Harness-Delta Attribution: Dissecting Gains From Harness Evolution",
-    "send_date": "2026-10-19T09:12:20.958537+00:00",
-    "edition_date": "19 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22469",
-    "normalised_url": "https://arxiv.org/abs/2610.22469",
-    "title": "Testing the Planning Claims of LLM-Based Agents against Formal Semantics",
-    "send_date": "2026-10-19T09:12:20.958537+00:00",
-    "edition_date": "19 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22708",
-    "normalised_url": "https://arxiv.org/abs/2610.22708",
-    "title": "GlobeBench: Evaluating Text-Based World Model Capabilities for Scalable Environment Simulations",
-    "send_date": "2026-10-19T09:12:20.958537+00:00",
-    "edition_date": "19 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22448",
-    "normalised_url": "https://arxiv.org/abs/2610.22448",
-    "title": "Lean4AgenticRL: Advancing Agentic RL with Verifiable Multi-level Process Rewards",
-    "send_date": "2026-10-19T09:12:20.958537+00:00",
-    "edition_date": "19 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22512",
-    "normalised_url": "https://arxiv.org/abs/2610.22512",
-    "title": "Predicting Privileged Information Effectiveness for On-Policy Self-Distillation",
-    "send_date": "2026-10-19T09:12:20.958537+00:00",
-    "edition_date": "19 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22630",
-    "normalised_url": "https://arxiv.org/abs/2610.22630",
-    "title": "Network-Wide Freeway Speed Nowcasting and Forecasting from Sparse Fixed Sensors with a Probe-Supervised Graph Convolutio",
-    "send_date": "2026-10-19T09:12:20.958537+00:00",
-    "edition_date": "19 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22631",
-    "normalised_url": "https://arxiv.org/abs/2610.22631",
-    "title": "A Plausible Explanation Is Enough to Mislead Multimodal Judges",
-    "send_date": "2026-10-19T09:12:20.958537+00:00",
-    "edition_date": "19 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22373",
-    "normalised_url": "https://arxiv.org/abs/2610.22373",
-    "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
-    "send_date": "2026-10-19T09:12:20.958537+00:00",
-    "edition_date": "19 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22408",
-    "normalised_url": "https://arxiv.org/abs/2610.22408",
-    "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
-    "send_date": "2026-10-19T09:12:20.958537+00:00",
-    "edition_date": "19 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22568",
-    "normalised_url": "https://arxiv.org/abs/2610.22568",
-    "title": "Repairing LLM-Generated Specifications with Deterministic Diagnosis",
-    "send_date": "2026-10-19T09:12:20.958537+00:00",
-    "edition_date": "19 October 2026"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.26943",
     "normalised_url": "https://arxiv.org/abs/2610.26943",
     "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
@@ -250,5 +166,89 @@
     "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
     "send_date": "2026-10-25T08:38:46.187249+00:00",
     "edition_date": "25 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.32022",
+    "normalised_url": "https://arxiv.org/abs/2610.32022",
+    "title": "CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition",
+    "send_date": "2026-10-26T09:15:16.743984+00:00",
+    "edition_date": "26 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.31685",
+    "normalised_url": "https://arxiv.org/abs/2610.31685",
+    "title": "An Agentic Approach with Evidence-Grounded Verification for Multimodal Emotion Reasoning in Conversation",
+    "send_date": "2026-10-26T09:15:16.743984+00:00",
+    "edition_date": "26 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.31911",
+    "normalised_url": "https://arxiv.org/abs/2610.31911",
+    "title": "LazyFlash: Forward-Dense, Backward-Sparse Attention for Accelerated Long-Context Fine-Tuning",
+    "send_date": "2026-10-26T09:15:16.743984+00:00",
+    "edition_date": "26 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.31789",
+    "normalised_url": "https://arxiv.org/abs/2610.31789",
+    "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+    "send_date": "2026-10-26T09:15:16.743984+00:00",
+    "edition_date": "26 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.32069",
+    "normalised_url": "https://arxiv.org/abs/2610.32069",
+    "title": "DriveMind: Mind-Evolving Belief Tracking for Closed-Loop Autonomous Driving",
+    "send_date": "2026-10-26T09:15:16.743984+00:00",
+    "edition_date": "26 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.31840",
+    "normalised_url": "https://arxiv.org/abs/2610.31840",
+    "title": "SPECMEM: Accelerating Agentic Tool Calling via Live Memory Management",
+    "send_date": "2026-10-26T09:15:16.743984+00:00",
+    "edition_date": "26 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.32114",
+    "normalised_url": "https://arxiv.org/abs/2610.32114",
+    "title": "Tampered ML: Evaluating LLM Judgment of Machine Learning Research",
+    "send_date": "2026-10-26T09:15:16.743984+00:00",
+    "edition_date": "26 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.31810",
+    "normalised_url": "https://arxiv.org/abs/2610.31810",
+    "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+    "send_date": "2026-10-26T09:15:16.743984+00:00",
+    "edition_date": "26 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.31882",
+    "normalised_url": "https://arxiv.org/abs/2610.31882",
+    "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+    "send_date": "2026-10-26T09:15:16.743984+00:00",
+    "edition_date": "26 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.31937",
+    "normalised_url": "https://arxiv.org/abs/2610.31937",
+    "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
+    "send_date": "2026-10-26T09:15:16.743984+00:00",
+    "edition_date": "26 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.31971",
+    "normalised_url": "https://arxiv.org/abs/2610.31971",
+    "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+    "send_date": "2026-10-26T09:15:16.743984+00:00",
+    "edition_date": "26 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.32106",
+    "normalised_url": "https://arxiv.org/abs/2610.32106",
+    "title": "PersonaScienceBench: Evaluating Scientific Agents with Diverse Simulated Researchers",
+    "send_date": "2026-10-26T09:15:16.743984+00:00",
+    "edition_date": "26 October 2026"
   }
 ]
