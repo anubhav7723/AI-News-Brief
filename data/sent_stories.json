@@ -250,5 +250,89 @@
     "title": "PersonaScienceBench: Evaluating Scientific Agents with Diverse Simulated Researchers",
     "send_date": "2026-10-26T09:15:16.743984+00:00",
     "edition_date": "26 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.33391",
+    "normalised_url": "https://arxiv.org/abs/2610.33391",
+    "title": "How To Build A Modern Diffusion Language Model",
+    "send_date": "2026-10-27T09:15:17.504543+00:00",
+    "edition_date": "27 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.33451",
+    "normalised_url": "https://arxiv.org/abs/2610.33451",
+    "title": "A Comprehensive Framework for All Stages of Large-Model Training: From Data and Tokenization, through Pretraining, to Po",
+    "send_date": "2026-10-27T09:15:17.504543+00:00",
+    "edition_date": "27 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.31778",
+    "normalised_url": "https://arxiv.org/abs/2610.31778",
+    "title": "Benchmarks Are Surprisingly Compaction-Friendly",
+    "send_date": "2026-10-27T09:15:17.504543+00:00",
+    "edition_date": "27 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.31862",
+    "normalised_url": "https://arxiv.org/abs/2610.31862",
+    "title": "Aligning Large Language Models with Human Feedback: Mathematical Foundations and Algorithm Design",
+    "send_date": "2026-10-27T09:15:17.504543+00:00",
+    "edition_date": "27 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.33375",
+    "normalised_url": "https://arxiv.org/abs/2610.33375",
+    "title": "AgentOrch: How Close Can Global Orchestration Come to Step-by-Step Interaction?",
+    "send_date": "2026-10-27T09:15:17.504543+00:00",
+    "edition_date": "27 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.33432",
+    "normalised_url": "https://arxiv.org/abs/2610.33432",
+    "title": "ConMem: Counterfactual Multi-Scenario Probing for Resolving LLM Memory Misalignment",
+    "send_date": "2026-10-27T09:15:17.504543+00:00",
+    "edition_date": "27 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.31721",
+    "normalised_url": "https://arxiv.org/abs/2610.31721",
+    "title": "End-to-End Differentiable Diffusion Conditioning for Physics-Informed Optimization",
+    "send_date": "2026-10-27T09:15:17.504543+00:00",
+    "edition_date": "27 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.31819",
+    "normalised_url": "https://arxiv.org/abs/2610.31819",
+    "title": "Speculative Diffusion is a Tale of Two Tradeoffs",
+    "send_date": "2026-10-27T09:15:17.504543+00:00",
+    "edition_date": "27 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.33015",
+    "normalised_url": "https://arxiv.org/abs/2610.33015",
+    "title": "SLICE-Mem: Salience-Gated Lightweight Information Curation for Efficient LLM Agent Memory",
+    "send_date": "2026-10-27T09:15:17.504543+00:00",
+    "edition_date": "27 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.33366",
+    "normalised_url": "https://arxiv.org/abs/2610.33366",
+    "title": "Distill, Debate, Discover: Grounding Multi-Agent Research Ideation in Graph-Distilled Insights",
+    "send_date": "2026-10-27T09:15:17.504543+00:00",
+    "edition_date": "27 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.33178",
+    "normalised_url": "https://arxiv.org/abs/2610.33178",
+    "title": "AOS-Bench: Can LLM Agents Manage Dynamic Workloads?",
+    "send_date": "2026-10-27T09:15:17.504543+00:00",
+    "edition_date": "27 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.33277",
+    "normalised_url": "https://arxiv.org/abs/2610.33277",
+    "title": "GEMS-RAG: Graph-grounded Engineering Multimodal Standards Retrieval-Augmented Generation",
+    "send_date": "2026-10-27T09:15:17.504543+00:00",
+    "edition_date": "27 October 2026"
   }
 ]
