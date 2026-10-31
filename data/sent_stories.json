@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.26943",
-    "normalised_url": "https://arxiv.org/abs/2610.26943",
-    "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
-    "send_date": "2026-10-21T08:48:05.096833+00:00",
-    "edition_date": "21 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.27220",
-    "normalised_url": "https://arxiv.org/abs/2610.27220",
-    "title": "Sparse RL Relaxation for LLM Reasoning",
-    "send_date": "2026-10-21T08:48:05.096833+00:00",
-    "edition_date": "21 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.27234",
-    "normalised_url": "https://arxiv.org/abs/2610.27234",
-    "title": "EGI-BENCH: An Enterprise General Intelligence Benchmark Suite",
-    "send_date": "2026-10-21T08:48:05.096833+00:00",
-    "edition_date": "21 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.26867",
-    "normalised_url": "https://arxiv.org/abs/2610.26867",
-    "title": "WaveCommitments: Private and Verifiable Speech-Agent Marketplaces",
-    "send_date": "2026-10-21T08:48:05.096833+00:00",
-    "edition_date": "21 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.26913",
-    "normalised_url": "https://arxiv.org/abs/2610.26913",
-    "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
-    "send_date": "2026-10-21T08:48:05.096833+00:00",
-    "edition_date": "21 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.26941",
-    "normalised_url": "https://arxiv.org/abs/2610.26941",
-    "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
-    "send_date": "2026-10-21T08:48:05.096833+00:00",
-    "edition_date": "21 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.27290",
-    "normalised_url": "https://arxiv.org/abs/2610.27290",
-    "title": "TEX: Test-Time Scaling Testing Agents via Execution-based Cross-Validation",
-    "send_date": "2026-10-21T08:48:05.096833+00:00",
-    "edition_date": "21 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.26926",
-    "normalised_url": "https://arxiv.org/abs/2610.26926",
-    "title": "AtomSD: Procedural Atom-Guided Self-Distillation for LLM Agents",
-    "send_date": "2026-10-21T08:48:05.096833+00:00",
-    "edition_date": "21 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.26937",
-    "normalised_url": "https://arxiv.org/abs/2610.26937",
-    "title": "Do We Need the Largest LLMs for Every Clinical Decision?",
-    "send_date": "2026-10-21T08:48:05.096833+00:00",
-    "edition_date": "21 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.26951",
-    "normalised_url": "https://arxiv.org/abs/2610.26951",
-    "title": "The Bottleneck Is Retrieval, Not Reading: Diagnosing Evidence-Based Generation with RAG for Long Context Question Answer",
-    "send_date": "2026-10-21T08:48:05.096833+00:00",
-    "edition_date": "21 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.27233",
-    "normalised_url": "https://arxiv.org/abs/2610.27233",
-    "title": "MMedAgent-Plus: Scaling Multimodal Medical Agents across Modalities, Tasks and Workflows",
-    "send_date": "2026-10-21T08:48:05.096833+00:00",
-    "edition_date": "21 October 2026"
-  },
-  {
-    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-    "normalised_url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-    "title": "Southeast Asia’s digital economy to hit $368 billion",
-    "send_date": "2026-10-21T08:48:05.096833+00:00",
-    "edition_date": "21 October 2026"
-  },
-  {
     "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "normalised_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -334,5 +250,89 @@
     "title": "GEMS-RAG: Graph-grounded Engineering Multimodal Standards Retrieval-Augmented Generation",
     "send_date": "2026-10-27T09:15:17.504543+00:00",
     "edition_date": "27 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.37739",
+    "normalised_url": "https://arxiv.org/abs/2610.37739",
+    "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+    "send_date": "2026-10-31T09:52:54.322237+00:00",
+    "edition_date": "31 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.37919",
+    "normalised_url": "https://arxiv.org/abs/2610.37919",
+    "title": "SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World",
+    "send_date": "2026-10-31T09:52:54.322237+00:00",
+    "edition_date": "31 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.37935",
+    "normalised_url": "https://arxiv.org/abs/2610.37935",
+    "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
+    "send_date": "2026-10-31T09:52:54.322237+00:00",
+    "edition_date": "31 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.38044",
+    "normalised_url": "https://arxiv.org/abs/2610.38044",
+    "title": "PromptSense: Sentiment-Aware Mental Health Chatbot with Dynamic Prompting",
+    "send_date": "2026-10-31T09:52:54.322237+00:00",
+    "edition_date": "31 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.38100",
+    "normalised_url": "https://arxiv.org/abs/2610.38100",
+    "title": "Evaluating Causal Reasoning in LLMs: A Case Study in the Challenges of Procedural Generation",
+    "send_date": "2026-10-31T09:52:54.322237+00:00",
+    "edition_date": "31 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.37851",
+    "normalised_url": "https://arxiv.org/abs/2610.37851",
+    "title": "Evaluating and improving AI agents for sequencing protocol understanding",
+    "send_date": "2026-10-31T09:52:54.322237+00:00",
+    "edition_date": "31 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.37859",
+    "normalised_url": "https://arxiv.org/abs/2610.37859",
+    "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+    "send_date": "2026-10-31T09:52:54.322237+00:00",
+    "edition_date": "31 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.37905",
+    "normalised_url": "https://arxiv.org/abs/2610.37905",
+    "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
+    "send_date": "2026-10-31T09:52:54.322237+00:00",
+    "edition_date": "31 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.37932",
+    "normalised_url": "https://arxiv.org/abs/2610.37932",
+    "title": "Understanding Large Language Models as Numerical Optimizers",
+    "send_date": "2026-10-31T09:52:54.322237+00:00",
+    "edition_date": "31 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.38024",
+    "normalised_url": "https://arxiv.org/abs/2610.38024",
+    "title": "Assessing Language Models for Scientific Applications: Inertial Confinement Fusion as a Use Case",
+    "send_date": "2026-10-31T09:52:54.322237+00:00",
+    "edition_date": "31 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.38120",
+    "normalised_url": "https://arxiv.org/abs/2610.38120",
+    "title": "Post-Training Large Language Models with LLMON",
+    "send_date": "2026-10-31T09:52:54.322237+00:00",
+    "edition_date": "31 October 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.37896",
+    "normalised_url": "https://arxiv.org/abs/2610.37896",
+    "title": "The Anatomy of Socio-Demographics in Pluralistic Offensiveness Modeling: When and Where It Helps, and the Role of Reason",
+    "send_date": "2026-10-31T09:52:54.322237+00:00",
+    "edition_date": "31 October 2026"
   }
 ]
