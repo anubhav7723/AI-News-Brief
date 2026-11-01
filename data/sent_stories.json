@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "normalised_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "send_date": "2026-10-25T08:38:46.187249+00:00",
-    "edition_date": "25 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "normalised_url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
-    "title": "Block’s new voice model sounds eerily human",
-    "send_date": "2026-10-25T08:38:46.187249+00:00",
-    "edition_date": "25 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "normalised_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "send_date": "2026-10-25T08:38:46.187249+00:00",
-    "edition_date": "25 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "normalised_url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "send_date": "2026-10-25T08:38:46.187249+00:00",
-    "edition_date": "25 October 2026"
-  },
-  {
-    "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
-    "normalised_url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
-    "title": "Setting the Scene (Public v1; October 25)",
-    "send_date": "2026-10-25T08:38:46.187249+00:00",
-    "edition_date": "25 October 2026"
-  },
-  {
-    "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-    "normalised_url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-    "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-    "send_date": "2026-10-25T08:38:46.187249+00:00",
-    "edition_date": "25 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "normalised_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-    "send_date": "2026-10-25T08:38:46.187249+00:00",
-    "edition_date": "25 October 2026"
-  },
-  {
-    "url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
-    "normalised_url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
-    "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
-    "send_date": "2026-10-25T08:38:46.187249+00:00",
-    "edition_date": "25 October 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-    "normalised_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell",
-    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-    "send_date": "2026-10-25T08:38:46.187249+00:00",
-    "edition_date": "25 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-    "normalised_url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-    "title": "What to expect from Apple’s ‘Pro and tell’ event",
-    "send_date": "2026-10-25T08:38:46.187249+00:00",
-    "edition_date": "25 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-    "normalised_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-    "title": "Pennsylvania will require labels on AI-generated ads",
-    "send_date": "2026-10-25T08:38:46.187249+00:00",
-    "edition_date": "25 October 2026"
-  },
-  {
-    "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-    "normalised_url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-    "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-    "send_date": "2026-10-25T08:38:46.187249+00:00",
-    "edition_date": "25 October 2026"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.32022",
     "normalised_url": "https://arxiv.org/abs/2610.32022",
     "title": "CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition",
@@ -334,5 +250,89 @@
     "title": "The Anatomy of Socio-Demographics in Pluralistic Offensiveness Modeling: When and Where It Helps, and the Role of Reason",
     "send_date": "2026-10-31T09:52:54.322237+00:00",
     "edition_date": "31 October 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "normalised_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "send_date": "2026-11-01T10:43:20.496230+00:00",
+    "edition_date": "1 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "normalised_url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "send_date": "2026-11-01T10:43:20.496230+00:00",
+    "edition_date": "1 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "normalised_url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "send_date": "2026-11-01T10:43:20.496230+00:00",
+    "edition_date": "1 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "normalised_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "send_date": "2026-11-01T10:43:20.496230+00:00",
+    "edition_date": "1 November 2026"
+  },
+  {
+    "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in",
+    "normalised_url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in",
+    "title": "Explaining “AI might obliterate you” to senior policymakers in India",
+    "send_date": "2026-11-01T10:43:20.496230+00:00",
+    "edition_date": "1 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+    "normalised_url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+    "title": "Get in the spirit with these horrors from YouTube",
+    "send_date": "2026-11-01T10:43:20.496230+00:00",
+    "edition_date": "1 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "normalised_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "send_date": "2026-11-01T10:43:20.496230+00:00",
+    "edition_date": "1 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "normalised_url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down",
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "send_date": "2026-11-01T10:43:20.496230+00:00",
+    "edition_date": "1 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+    "normalised_url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+    "title": "Keyboards of The Verge",
+    "send_date": "2026-11-01T10:43:20.496230+00:00",
+    "edition_date": "1 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+    "normalised_url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+    "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+    "send_date": "2026-11-01T10:43:20.496230+00:00",
+    "edition_date": "1 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+    "normalised_url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+    "title": "Happy Pikmin Day Eve",
+    "send_date": "2026-11-01T10:43:20.496230+00:00",
+    "edition_date": "1 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "normalised_url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "title": "I built an AI Tamagotchi before Meta could",
+    "send_date": "2026-11-01T10:43:20.496230+00:00",
+    "edition_date": "1 November 2026"
   }
 ]
