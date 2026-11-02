@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.32022",
-    "normalised_url": "https://arxiv.org/abs/2610.32022",
-    "title": "CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition",
-    "send_date": "2026-10-26T09:15:16.743984+00:00",
-    "edition_date": "26 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.31685",
-    "normalised_url": "https://arxiv.org/abs/2610.31685",
-    "title": "An Agentic Approach with Evidence-Grounded Verification for Multimodal Emotion Reasoning in Conversation",
-    "send_date": "2026-10-26T09:15:16.743984+00:00",
-    "edition_date": "26 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.31911",
-    "normalised_url": "https://arxiv.org/abs/2610.31911",
-    "title": "LazyFlash: Forward-Dense, Backward-Sparse Attention for Accelerated Long-Context Fine-Tuning",
-    "send_date": "2026-10-26T09:15:16.743984+00:00",
-    "edition_date": "26 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.31789",
-    "normalised_url": "https://arxiv.org/abs/2610.31789",
-    "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
-    "send_date": "2026-10-26T09:15:16.743984+00:00",
-    "edition_date": "26 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.32069",
-    "normalised_url": "https://arxiv.org/abs/2610.32069",
-    "title": "DriveMind: Mind-Evolving Belief Tracking for Closed-Loop Autonomous Driving",
-    "send_date": "2026-10-26T09:15:16.743984+00:00",
-    "edition_date": "26 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.31840",
-    "normalised_url": "https://arxiv.org/abs/2610.31840",
-    "title": "SPECMEM: Accelerating Agentic Tool Calling via Live Memory Management",
-    "send_date": "2026-10-26T09:15:16.743984+00:00",
-    "edition_date": "26 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.32114",
-    "normalised_url": "https://arxiv.org/abs/2610.32114",
-    "title": "Tampered ML: Evaluating LLM Judgment of Machine Learning Research",
-    "send_date": "2026-10-26T09:15:16.743984+00:00",
-    "edition_date": "26 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.31810",
-    "normalised_url": "https://arxiv.org/abs/2610.31810",
-    "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
-    "send_date": "2026-10-26T09:15:16.743984+00:00",
-    "edition_date": "26 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.31882",
-    "normalised_url": "https://arxiv.org/abs/2610.31882",
-    "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-    "send_date": "2026-10-26T09:15:16.743984+00:00",
-    "edition_date": "26 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.31937",
-    "normalised_url": "https://arxiv.org/abs/2610.31937",
-    "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
-    "send_date": "2026-10-26T09:15:16.743984+00:00",
-    "edition_date": "26 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.31971",
-    "normalised_url": "https://arxiv.org/abs/2610.31971",
-    "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
-    "send_date": "2026-10-26T09:15:16.743984+00:00",
-    "edition_date": "26 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.32106",
-    "normalised_url": "https://arxiv.org/abs/2610.32106",
-    "title": "PersonaScienceBench: Evaluating Scientific Agents with Diverse Simulated Researchers",
-    "send_date": "2026-10-26T09:15:16.743984+00:00",
-    "edition_date": "26 October 2026"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.33391",
     "normalised_url": "https://arxiv.org/abs/2610.33391",
     "title": "How To Build A Modern Diffusion Language Model",
@@ -334,5 +250,89 @@
     "title": "I built an AI Tamagotchi before Meta could",
     "send_date": "2026-11-01T10:43:20.496230+00:00",
     "edition_date": "1 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.40901",
+    "normalised_url": "https://arxiv.org/abs/2610.40901",
+    "title": "TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research",
+    "send_date": "2026-11-02T11:33:48.194146+00:00",
+    "edition_date": "2 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.41291",
+    "normalised_url": "https://arxiv.org/abs/2610.41291",
+    "title": "In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents",
+    "send_date": "2026-11-02T11:33:48.194146+00:00",
+    "edition_date": "2 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.40726",
+    "normalised_url": "https://arxiv.org/abs/2610.40726",
+    "title": "Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping",
+    "send_date": "2026-11-02T11:33:48.194146+00:00",
+    "edition_date": "2 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.41552",
+    "normalised_url": "https://arxiv.org/abs/2610.41552",
+    "title": "Enhancing Knowledge Entity Relation Extraction in Abstracts and Full-text Content of Academic Articles Using Large Langu",
+    "send_date": "2026-11-02T11:33:48.194146+00:00",
+    "edition_date": "2 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.41574",
+    "normalised_url": "https://arxiv.org/abs/2610.41574",
+    "title": "BYOD: Build Your Own DLM - Efficient Autoregressive-to-Diffusion Language Model Conversion",
+    "send_date": "2026-11-02T11:33:48.194146+00:00",
+    "edition_date": "2 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.40934",
+    "normalised_url": "https://arxiv.org/abs/2610.40934",
+    "title": "A Theoretical Framework for Understanding and Building \"Any-task inference\" Capable Foundation Models",
+    "send_date": "2026-11-02T11:33:48.194146+00:00",
+    "edition_date": "2 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.41014",
+    "normalised_url": "https://arxiv.org/abs/2610.41014",
+    "title": "Towards Understanding Score-Seeking in LLMs",
+    "send_date": "2026-11-02T11:33:48.194146+00:00",
+    "edition_date": "2 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.41039",
+    "normalised_url": "https://arxiv.org/abs/2610.41039",
+    "title": "Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs",
+    "send_date": "2026-11-02T11:33:48.194146+00:00",
+    "edition_date": "2 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.40926",
+    "normalised_url": "https://arxiv.org/abs/2610.40926",
+    "title": "CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak",
+    "send_date": "2026-11-02T11:33:48.194146+00:00",
+    "edition_date": "2 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.40966",
+    "normalised_url": "https://arxiv.org/abs/2610.40966",
+    "title": "Better Retrievers, Worse Labels: How Incomplete Relevance Judgments Distort Abstention Evaluation in Conversational RAG",
+    "send_date": "2026-11-02T11:33:48.194146+00:00",
+    "edition_date": "2 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.41147",
+    "normalised_url": "https://arxiv.org/abs/2610.41147",
+    "title": "HyperRepair: Recovering Forgotten General Capabilities of Fine-Tuned Language Models",
+    "send_date": "2026-11-02T11:33:48.194146+00:00",
+    "edition_date": "2 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.41391",
+    "normalised_url": "https://arxiv.org/abs/2610.41391",
+    "title": "Comparative Evaluation of LLM-Based Review Paradigms for Academic Paper Quality Assessment",
+    "send_date": "2026-11-02T11:33:48.194146+00:00",
+    "edition_date": "2 November 2026"
   }
 ]
