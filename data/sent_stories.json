@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.33391",
-    "normalised_url": "https://arxiv.org/abs/2610.33391",
-    "title": "How To Build A Modern Diffusion Language Model",
-    "send_date": "2026-10-27T09:15:17.504543+00:00",
-    "edition_date": "27 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.33451",
-    "normalised_url": "https://arxiv.org/abs/2610.33451",
-    "title": "A Comprehensive Framework for All Stages of Large-Model Training: From Data and Tokenization, through Pretraining, to Po",
-    "send_date": "2026-10-27T09:15:17.504543+00:00",
-    "edition_date": "27 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.31778",
-    "normalised_url": "https://arxiv.org/abs/2610.31778",
-    "title": "Benchmarks Are Surprisingly Compaction-Friendly",
-    "send_date": "2026-10-27T09:15:17.504543+00:00",
-    "edition_date": "27 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.31862",
-    "normalised_url": "https://arxiv.org/abs/2610.31862",
-    "title": "Aligning Large Language Models with Human Feedback: Mathematical Foundations and Algorithm Design",
-    "send_date": "2026-10-27T09:15:17.504543+00:00",
-    "edition_date": "27 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.33375",
-    "normalised_url": "https://arxiv.org/abs/2610.33375",
-    "title": "AgentOrch: How Close Can Global Orchestration Come to Step-by-Step Interaction?",
-    "send_date": "2026-10-27T09:15:17.504543+00:00",
-    "edition_date": "27 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.33432",
-    "normalised_url": "https://arxiv.org/abs/2610.33432",
-    "title": "ConMem: Counterfactual Multi-Scenario Probing for Resolving LLM Memory Misalignment",
-    "send_date": "2026-10-27T09:15:17.504543+00:00",
-    "edition_date": "27 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.31721",
-    "normalised_url": "https://arxiv.org/abs/2610.31721",
-    "title": "End-to-End Differentiable Diffusion Conditioning for Physics-Informed Optimization",
-    "send_date": "2026-10-27T09:15:17.504543+00:00",
-    "edition_date": "27 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.31819",
-    "normalised_url": "https://arxiv.org/abs/2610.31819",
-    "title": "Speculative Diffusion is a Tale of Two Tradeoffs",
-    "send_date": "2026-10-27T09:15:17.504543+00:00",
-    "edition_date": "27 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.33015",
-    "normalised_url": "https://arxiv.org/abs/2610.33015",
-    "title": "SLICE-Mem: Salience-Gated Lightweight Information Curation for Efficient LLM Agent Memory",
-    "send_date": "2026-10-27T09:15:17.504543+00:00",
-    "edition_date": "27 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.33366",
-    "normalised_url": "https://arxiv.org/abs/2610.33366",
-    "title": "Distill, Debate, Discover: Grounding Multi-Agent Research Ideation in Graph-Distilled Insights",
-    "send_date": "2026-10-27T09:15:17.504543+00:00",
-    "edition_date": "27 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.33178",
-    "normalised_url": "https://arxiv.org/abs/2610.33178",
-    "title": "AOS-Bench: Can LLM Agents Manage Dynamic Workloads?",
-    "send_date": "2026-10-27T09:15:17.504543+00:00",
-    "edition_date": "27 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.33277",
-    "normalised_url": "https://arxiv.org/abs/2610.33277",
-    "title": "GEMS-RAG: Graph-grounded Engineering Multimodal Standards Retrieval-Augmented Generation",
-    "send_date": "2026-10-27T09:15:17.504543+00:00",
-    "edition_date": "27 October 2026"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.37739",
     "normalised_url": "https://arxiv.org/abs/2610.37739",
     "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
@@ -334,5 +250,89 @@
     "title": "Comparative Evaluation of LLM-Based Review Paradigms for Academic Paper Quality Assessment",
     "send_date": "2026-11-02T11:33:48.194146+00:00",
     "edition_date": "2 November 2026"
+  },
+  {
+    "url": "https://huggingface.co/blog/transformers-mic",
+    "normalised_url": "https://huggingface.co/blog/transformers-mic",
+    "title": "Transformers Model Integration Contracts",
+    "send_date": "2026-11-03T11:12:42.072120+00:00",
+    "edition_date": "3 November 2026"
+  },
+  {
+    "url": "https://openai.com/index/heimstaden",
+    "normalised_url": "https://openai.com/index/heimstaden",
+    "title": "Heimstaden Uses ChatGPT Enterprise and Codex for Property Management",
+    "send_date": "2026-11-03T11:12:42.072120+00:00",
+    "edition_date": "3 November 2026"
+  },
+  {
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "normalised_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "title": "OpenAI Raises Security Bug Bounty Rewards and Adds Bonuses",
+    "send_date": "2026-11-03T11:12:42.072120+00:00",
+    "edition_date": "3 November 2026"
+  },
+  {
+    "url": "https://openai.com/index/lifeval",
+    "normalised_url": "https://openai.com/index/lifeval",
+    "title": "OpenAI Introduces LifeVal Benchmark for Everyday AI Tasks",
+    "send_date": "2026-11-03T11:12:42.072120+00:00",
+    "edition_date": "3 November 2026"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+    "normalised_url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications",
+    "title": "Cities Use NVIDIA Physical and Agentic AI for Public Services",
+    "send_date": "2026-11-03T11:12:42.072120+00:00",
+    "edition_date": "3 November 2026"
+  },
+  {
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "normalised_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "title": "OpenAI Prepares Next Security Sprint with Cathedral Systems",
+    "send_date": "2026-11-03T11:12:42.072120+00:00",
+    "edition_date": "3 November 2026"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "normalised_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+    "title": "Google AI Blog Shares October 2026 AI Updates in Carousel Format",
+    "send_date": "2026-11-03T11:12:42.072120+00:00",
+    "edition_date": "3 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.40959",
+    "normalised_url": "https://arxiv.org/abs/2610.40959",
+    "title": "P-ContextBench Evaluates LLM Safe Use of Personal Context",
+    "send_date": "2026-11-03T11:12:42.072120+00:00",
+    "edition_date": "3 November 2026"
+  },
+  {
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "normalised_url": "https://openai.com/index/scaling-git-at-openai",
+    "title": "OpenAI Builds Pando to Scale Git for Codex Development",
+    "send_date": "2026-11-03T11:12:42.072120+00:00",
+    "edition_date": "3 November 2026"
+  },
+  {
+    "url": "https://openai.com/index/grid-protectors-program",
+    "normalised_url": "https://openai.com/index/grid-protectors-program",
+    "title": "OpenAI Launches Grid Protectors Program for Compute Campuses",
+    "send_date": "2026-11-03T11:12:42.072120+00:00",
+    "edition_date": "3 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.41040",
+    "normalised_url": "https://arxiv.org/abs/2610.41040",
+    "title": "Capability‑Grounded Agentic Planning for LLMs",
+    "send_date": "2026-11-03T11:12:42.072120+00:00",
+    "edition_date": "3 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.41089",
+    "normalised_url": "https://arxiv.org/abs/2610.41089",
+    "title": "CIRCE Predicts LLM Task Complexity from Constraint Structure",
+    "send_date": "2026-11-03T11:12:42.072120+00:00",
+    "edition_date": "3 November 2026"
   }
 ]
