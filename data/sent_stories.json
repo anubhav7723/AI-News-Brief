@@ -334,5 +334,89 @@
     "title": "CIRCE Predicts LLM Task Complexity from Constraint Structure",
     "send_date": "2026-11-03T11:12:42.072120+00:00",
     "edition_date": "3 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.07126",
+    "normalised_url": "https://arxiv.org/abs/2611.07126",
+    "title": "Adapting LLM Judges to Observed Human Annotation Policy through Soft Prompt Tuning",
+    "send_date": "2026-11-06T11:19:06.615076+00:00",
+    "edition_date": "6 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.07598",
+    "normalised_url": "https://arxiv.org/abs/2611.07598",
+    "title": "Align Before Aggregation: Basis-Consistent Federated LoRA under Heterogeneous Ranks",
+    "send_date": "2026-11-06T11:19:06.615076+00:00",
+    "edition_date": "6 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.07610",
+    "normalised_url": "https://arxiv.org/abs/2611.07610",
+    "title": "Embedding-Space Fingerprinting of LoRA Fine-Tunes: Recovering the Training-Data Domain from the Model Artifact Alone",
+    "send_date": "2026-11-06T11:19:06.615076+00:00",
+    "edition_date": "6 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.07558",
+    "normalised_url": "https://arxiv.org/abs/2611.07558",
+    "title": "SKIM: Pruning Large Language Model Agents via Selective Knowledge Informed Masking",
+    "send_date": "2026-11-06T11:19:06.615076+00:00",
+    "edition_date": "6 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.06977",
+    "normalised_url": "https://arxiv.org/abs/2611.06977",
+    "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+    "send_date": "2026-11-06T11:19:06.615076+00:00",
+    "edition_date": "6 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.06989",
+    "normalised_url": "https://arxiv.org/abs/2611.06989",
+    "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of",
+    "send_date": "2026-11-06T11:19:06.615076+00:00",
+    "edition_date": "6 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.07066",
+    "normalised_url": "https://arxiv.org/abs/2611.07066",
+    "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
+    "send_date": "2026-11-06T11:19:06.615076+00:00",
+    "edition_date": "6 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.07541",
+    "normalised_url": "https://arxiv.org/abs/2611.07541",
+    "title": "CST-Bench: Benchmarking Counterfactual Spatial Transition Reasoning with Causal Transition On-Policy Self-Distillation",
+    "send_date": "2026-11-06T11:19:06.615076+00:00",
+    "edition_date": "6 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.07624",
+    "normalised_url": "https://arxiv.org/abs/2611.07624",
+    "title": "Beneath the Surface: What We Overlook When We Talk About Agent Evolution",
+    "send_date": "2026-11-06T11:19:06.615076+00:00",
+    "edition_date": "6 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.07653",
+    "normalised_url": "https://arxiv.org/abs/2611.07653",
+    "title": "PharmAgents2: Towards Autonomous End-to-End Drug Discovery",
+    "send_date": "2026-11-06T11:19:06.615076+00:00",
+    "edition_date": "6 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.06953",
+    "normalised_url": "https://arxiv.org/abs/2611.06953",
+    "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Unce",
+    "send_date": "2026-11-06T11:19:06.615076+00:00",
+    "edition_date": "6 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.06956",
+    "normalised_url": "https://arxiv.org/abs/2611.06956",
+    "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
+    "send_date": "2026-11-06T11:19:06.615076+00:00",
+    "edition_date": "6 November 2026"
   }
 ]
