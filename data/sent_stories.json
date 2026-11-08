@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.37739",
-    "normalised_url": "https://arxiv.org/abs/2610.37739",
-    "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-    "send_date": "2026-10-31T09:52:54.322237+00:00",
-    "edition_date": "31 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.37919",
-    "normalised_url": "https://arxiv.org/abs/2610.37919",
-    "title": "SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World",
-    "send_date": "2026-10-31T09:52:54.322237+00:00",
-    "edition_date": "31 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.37935",
-    "normalised_url": "https://arxiv.org/abs/2610.37935",
-    "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
-    "send_date": "2026-10-31T09:52:54.322237+00:00",
-    "edition_date": "31 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.38044",
-    "normalised_url": "https://arxiv.org/abs/2610.38044",
-    "title": "PromptSense: Sentiment-Aware Mental Health Chatbot with Dynamic Prompting",
-    "send_date": "2026-10-31T09:52:54.322237+00:00",
-    "edition_date": "31 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.38100",
-    "normalised_url": "https://arxiv.org/abs/2610.38100",
-    "title": "Evaluating Causal Reasoning in LLMs: A Case Study in the Challenges of Procedural Generation",
-    "send_date": "2026-10-31T09:52:54.322237+00:00",
-    "edition_date": "31 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.37851",
-    "normalised_url": "https://arxiv.org/abs/2610.37851",
-    "title": "Evaluating and improving AI agents for sequencing protocol understanding",
-    "send_date": "2026-10-31T09:52:54.322237+00:00",
-    "edition_date": "31 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.37859",
-    "normalised_url": "https://arxiv.org/abs/2610.37859",
-    "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
-    "send_date": "2026-10-31T09:52:54.322237+00:00",
-    "edition_date": "31 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.37905",
-    "normalised_url": "https://arxiv.org/abs/2610.37905",
-    "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
-    "send_date": "2026-10-31T09:52:54.322237+00:00",
-    "edition_date": "31 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.37932",
-    "normalised_url": "https://arxiv.org/abs/2610.37932",
-    "title": "Understanding Large Language Models as Numerical Optimizers",
-    "send_date": "2026-10-31T09:52:54.322237+00:00",
-    "edition_date": "31 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.38024",
-    "normalised_url": "https://arxiv.org/abs/2610.38024",
-    "title": "Assessing Language Models for Scientific Applications: Inertial Confinement Fusion as a Use Case",
-    "send_date": "2026-10-31T09:52:54.322237+00:00",
-    "edition_date": "31 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.38120",
-    "normalised_url": "https://arxiv.org/abs/2610.38120",
-    "title": "Post-Training Large Language Models with LLMON",
-    "send_date": "2026-10-31T09:52:54.322237+00:00",
-    "edition_date": "31 October 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.37896",
-    "normalised_url": "https://arxiv.org/abs/2610.37896",
-    "title": "The Anatomy of Socio-Demographics in Pluralistic Offensiveness Modeling: When and Where It Helps, and the Role of Reason",
-    "send_date": "2026-10-31T09:52:54.322237+00:00",
-    "edition_date": "31 October 2026"
-  },
-  {
     "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
     "normalised_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
     "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -418,5 +334,89 @@
     "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
     "send_date": "2026-11-06T11:19:06.615076+00:00",
     "edition_date": "6 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "normalised_url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "send_date": "2026-11-08T10:39:56.670513+00:00",
+    "edition_date": "8 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "normalised_url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "send_date": "2026-11-08T10:39:56.670513+00:00",
+    "edition_date": "8 November 2026"
+  },
+  {
+    "url": "https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents",
+    "normalised_url": "https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents",
+    "title": "Managed Deep Agents v0.10: Browser Use and Async Subagents",
+    "send_date": "2026-11-08T10:39:56.670513+00:00",
+    "edition_date": "8 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "normalised_url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google",
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "send_date": "2026-11-08T10:39:56.670513+00:00",
+    "edition_date": "8 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "normalised_url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "send_date": "2026-11-08T10:39:56.670513+00:00",
+    "edition_date": "8 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "normalised_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "send_date": "2026-11-08T10:39:56.670513+00:00",
+    "edition_date": "8 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+    "normalised_url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+    "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+    "send_date": "2026-11-08T10:39:56.670513+00:00",
+    "edition_date": "8 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+    "normalised_url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+    "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+    "send_date": "2026-11-08T10:39:56.670513+00:00",
+    "edition_date": "8 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+    "normalised_url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+    "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+    "send_date": "2026-11-08T10:39:56.670513+00:00",
+    "edition_date": "8 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "normalised_url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+    "send_date": "2026-11-08T10:39:56.670513+00:00",
+    "edition_date": "8 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "normalised_url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "title": "The US let Nvidia sell chips to an empty office in China",
+    "send_date": "2026-11-08T10:39:56.670513+00:00",
+    "edition_date": "8 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "normalised_url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "title": "AI broke the cybersecurity world. What’s next?",
+    "send_date": "2026-11-08T10:39:56.670513+00:00",
+    "edition_date": "8 November 2026"
   }
 ]
