@@ -1,173 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "normalised_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "send_date": "2026-11-01T10:43:20.496230+00:00",
-    "edition_date": "1 November 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-    "normalised_url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
-    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-    "send_date": "2026-11-01T10:43:20.496230+00:00",
-    "edition_date": "1 November 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "normalised_url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "send_date": "2026-11-01T10:43:20.496230+00:00",
-    "edition_date": "1 November 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "normalised_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
-    "title": "OpenAI reportedly lowers funding target for new round",
-    "send_date": "2026-11-01T10:43:20.496230+00:00",
-    "edition_date": "1 November 2026"
-  },
-  {
-    "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in",
-    "normalised_url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in",
-    "title": "Explaining “AI might obliterate you” to senior policymakers in India",
-    "send_date": "2026-11-01T10:43:20.496230+00:00",
-    "edition_date": "1 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-    "normalised_url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-    "title": "Get in the spirit with these horrors from YouTube",
-    "send_date": "2026-11-01T10:43:20.496230+00:00",
-    "edition_date": "1 November 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "normalised_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
-    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-    "send_date": "2026-11-01T10:43:20.496230+00:00",
-    "edition_date": "1 November 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-    "normalised_url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down",
-    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-    "send_date": "2026-11-01T10:43:20.496230+00:00",
-    "edition_date": "1 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-    "normalised_url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-    "title": "Keyboards of The Verge",
-    "send_date": "2026-11-01T10:43:20.496230+00:00",
-    "edition_date": "1 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-    "normalised_url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-    "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-    "send_date": "2026-11-01T10:43:20.496230+00:00",
-    "edition_date": "1 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
-    "normalised_url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
-    "title": "Happy Pikmin Day Eve",
-    "send_date": "2026-11-01T10:43:20.496230+00:00",
-    "edition_date": "1 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-    "normalised_url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-    "title": "I built an AI Tamagotchi before Meta could",
-    "send_date": "2026-11-01T10:43:20.496230+00:00",
-    "edition_date": "1 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.40901",
-    "normalised_url": "https://arxiv.org/abs/2610.40901",
-    "title": "TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research",
-    "send_date": "2026-11-02T11:33:48.194146+00:00",
-    "edition_date": "2 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.41291",
-    "normalised_url": "https://arxiv.org/abs/2610.41291",
-    "title": "In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents",
-    "send_date": "2026-11-02T11:33:48.194146+00:00",
-    "edition_date": "2 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.40726",
-    "normalised_url": "https://arxiv.org/abs/2610.40726",
-    "title": "Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping",
-    "send_date": "2026-11-02T11:33:48.194146+00:00",
-    "edition_date": "2 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.41552",
-    "normalised_url": "https://arxiv.org/abs/2610.41552",
-    "title": "Enhancing Knowledge Entity Relation Extraction in Abstracts and Full-text Content of Academic Articles Using Large Langu",
-    "send_date": "2026-11-02T11:33:48.194146+00:00",
-    "edition_date": "2 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.41574",
-    "normalised_url": "https://arxiv.org/abs/2610.41574",
-    "title": "BYOD: Build Your Own DLM - Efficient Autoregressive-to-Diffusion Language Model Conversion",
-    "send_date": "2026-11-02T11:33:48.194146+00:00",
-    "edition_date": "2 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.40934",
-    "normalised_url": "https://arxiv.org/abs/2610.40934",
-    "title": "A Theoretical Framework for Understanding and Building \"Any-task inference\" Capable Foundation Models",
-    "send_date": "2026-11-02T11:33:48.194146+00:00",
-    "edition_date": "2 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.41014",
-    "normalised_url": "https://arxiv.org/abs/2610.41014",
-    "title": "Towards Understanding Score-Seeking in LLMs",
-    "send_date": "2026-11-02T11:33:48.194146+00:00",
-    "edition_date": "2 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.41039",
-    "normalised_url": "https://arxiv.org/abs/2610.41039",
-    "title": "Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs",
-    "send_date": "2026-11-02T11:33:48.194146+00:00",
-    "edition_date": "2 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.40926",
-    "normalised_url": "https://arxiv.org/abs/2610.40926",
-    "title": "CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak",
-    "send_date": "2026-11-02T11:33:48.194146+00:00",
-    "edition_date": "2 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.40966",
-    "normalised_url": "https://arxiv.org/abs/2610.40966",
-    "title": "Better Retrievers, Worse Labels: How Incomplete Relevance Judgments Distort Abstention Evaluation in Conversational RAG",
-    "send_date": "2026-11-02T11:33:48.194146+00:00",
-    "edition_date": "2 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.41147",
-    "normalised_url": "https://arxiv.org/abs/2610.41147",
-    "title": "HyperRepair: Recovering Forgotten General Capabilities of Fine-Tuned Language Models",
-    "send_date": "2026-11-02T11:33:48.194146+00:00",
-    "edition_date": "2 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.41391",
-    "normalised_url": "https://arxiv.org/abs/2610.41391",
-    "title": "Comparative Evaluation of LLM-Based Review Paradigms for Academic Paper Quality Assessment",
-    "send_date": "2026-11-02T11:33:48.194146+00:00",
-    "edition_date": "2 November 2026"
-  },
-  {
     "url": "https://huggingface.co/blog/transformers-mic",
     "normalised_url": "https://huggingface.co/blog/transformers-mic",
     "title": "Transformers Model Integration Contracts",
@@ -418,5 +250,89 @@
     "title": "AI broke the cybersecurity world. What’s next?",
     "send_date": "2026-11-08T10:39:56.670513+00:00",
     "edition_date": "8 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.09061",
+    "normalised_url": "https://arxiv.org/abs/2611.09061",
+    "title": "Does Reasoning Improve Psychological Depth in Large Language Models?",
+    "send_date": "2026-11-09T11:57:26.418158+00:00",
+    "edition_date": "9 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.09239",
+    "normalised_url": "https://arxiv.org/abs/2611.09239",
+    "title": "DUET: Dual-Sparse Inference for Block Diffusion Language Models",
+    "send_date": "2026-11-09T11:57:26.418158+00:00",
+    "edition_date": "9 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.08780",
+    "normalised_url": "https://arxiv.org/abs/2611.08780",
+    "title": "Guardrail Erosion in Domain Fine-Tuned Large Language Models: A Paired Audit of Knowledge-Centric Abstention in Biomedic",
+    "send_date": "2026-11-09T11:57:26.418158+00:00",
+    "edition_date": "9 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.08975",
+    "normalised_url": "https://arxiv.org/abs/2611.08975",
+    "title": "Beyond Truncation? Entailment-Licensed Elision and the Limits of Semantic Preservation in LLM Decoding",
+    "send_date": "2026-11-09T11:57:26.418158+00:00",
+    "edition_date": "9 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.09085",
+    "normalised_url": "https://arxiv.org/abs/2611.09085",
+    "title": "The Invisible Gap: Romanized Indic Generation Fails Where Automatic Metrics Succeed",
+    "send_date": "2026-11-09T11:57:26.418158+00:00",
+    "edition_date": "9 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.09090",
+    "normalised_url": "https://arxiv.org/abs/2611.09090",
+    "title": "MARS: Training Multilingual Search Agents for Retriever-Free Evidence Acquisition",
+    "send_date": "2026-11-09T11:57:26.418158+00:00",
+    "edition_date": "9 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.09094",
+    "normalised_url": "https://arxiv.org/abs/2611.09094",
+    "title": "AlienBench: A Benchmark of Structural Novelty in Language Model Outputs",
+    "send_date": "2026-11-09T11:57:26.418158+00:00",
+    "edition_date": "9 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.09491",
+    "normalised_url": "https://arxiv.org/abs/2611.09491",
+    "title": "An Effective Spoken Language Understanding Approach Leveraging Query-Adaptive Intent Detection",
+    "send_date": "2026-11-09T11:57:26.418158+00:00",
+    "edition_date": "9 November 2026"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+    "normalised_url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
+    "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+    "send_date": "2026-11-09T11:57:26.418158+00:00",
+    "edition_date": "9 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.08639",
+    "normalised_url": "https://arxiv.org/abs/2611.08639",
+    "title": "Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP",
+    "send_date": "2026-11-09T11:57:26.418158+00:00",
+    "edition_date": "9 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.08643",
+    "normalised_url": "https://arxiv.org/abs/2611.08643",
+    "title": "FinEvolveKG: Controlled and Attributable Prompt Evolution for Financial Knowledge Graph Construction",
+    "send_date": "2026-11-09T11:57:26.418158+00:00",
+    "edition_date": "9 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.08683",
+    "normalised_url": "https://arxiv.org/abs/2611.08683",
+    "title": "Compression of Emotion in Language Model Representations",
+    "send_date": "2026-11-09T11:57:26.418158+00:00",
+    "edition_date": "9 November 2026"
   }
 ]
