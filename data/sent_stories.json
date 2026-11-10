@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://huggingface.co/blog/transformers-mic",
-    "normalised_url": "https://huggingface.co/blog/transformers-mic",
-    "title": "Transformers Model Integration Contracts",
-    "send_date": "2026-11-03T11:12:42.072120+00:00",
-    "edition_date": "3 November 2026"
-  },
-  {
-    "url": "https://openai.com/index/heimstaden",
-    "normalised_url": "https://openai.com/index/heimstaden",
-    "title": "Heimstaden Uses ChatGPT Enterprise and Codex for Property Management",
-    "send_date": "2026-11-03T11:12:42.072120+00:00",
-    "edition_date": "3 November 2026"
-  },
-  {
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-    "normalised_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-    "title": "OpenAI Raises Security Bug Bounty Rewards and Adds Bonuses",
-    "send_date": "2026-11-03T11:12:42.072120+00:00",
-    "edition_date": "3 November 2026"
-  },
-  {
-    "url": "https://openai.com/index/lifeval",
-    "normalised_url": "https://openai.com/index/lifeval",
-    "title": "OpenAI Introduces LifeVal Benchmark for Everyday AI Tasks",
-    "send_date": "2026-11-03T11:12:42.072120+00:00",
-    "edition_date": "3 November 2026"
-  },
-  {
-    "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
-    "normalised_url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications",
-    "title": "Cities Use NVIDIA Physical and Agentic AI for Public Services",
-    "send_date": "2026-11-03T11:12:42.072120+00:00",
-    "edition_date": "3 November 2026"
-  },
-  {
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "normalised_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "title": "OpenAI Prepares Next Security Sprint with Cathedral Systems",
-    "send_date": "2026-11-03T11:12:42.072120+00:00",
-    "edition_date": "3 November 2026"
-  },
-  {
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-    "normalised_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-    "title": "Google AI Blog Shares October 2026 AI Updates in Carousel Format",
-    "send_date": "2026-11-03T11:12:42.072120+00:00",
-    "edition_date": "3 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.40959",
-    "normalised_url": "https://arxiv.org/abs/2610.40959",
-    "title": "P-ContextBench Evaluates LLM Safe Use of Personal Context",
-    "send_date": "2026-11-03T11:12:42.072120+00:00",
-    "edition_date": "3 November 2026"
-  },
-  {
-    "url": "https://openai.com/index/scaling-git-at-openai",
-    "normalised_url": "https://openai.com/index/scaling-git-at-openai",
-    "title": "OpenAI Builds Pando to Scale Git for Codex Development",
-    "send_date": "2026-11-03T11:12:42.072120+00:00",
-    "edition_date": "3 November 2026"
-  },
-  {
-    "url": "https://openai.com/index/grid-protectors-program",
-    "normalised_url": "https://openai.com/index/grid-protectors-program",
-    "title": "OpenAI Launches Grid Protectors Program for Compute Campuses",
-    "send_date": "2026-11-03T11:12:42.072120+00:00",
-    "edition_date": "3 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.41040",
-    "normalised_url": "https://arxiv.org/abs/2610.41040",
-    "title": "Capability‑Grounded Agentic Planning for LLMs",
-    "send_date": "2026-11-03T11:12:42.072120+00:00",
-    "edition_date": "3 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.41089",
-    "normalised_url": "https://arxiv.org/abs/2610.41089",
-    "title": "CIRCE Predicts LLM Task Complexity from Constraint Structure",
-    "send_date": "2026-11-03T11:12:42.072120+00:00",
-    "edition_date": "3 November 2026"
-  },
-  {
     "url": "https://arxiv.org/abs/2611.07126",
     "normalised_url": "https://arxiv.org/abs/2611.07126",
     "title": "Adapting LLM Judges to Observed Human Annotation Policy through Soft Prompt Tuning",
@@ -334,5 +250,89 @@
     "title": "Compression of Emotion in Language Model Representations",
     "send_date": "2026-11-09T11:57:26.418158+00:00",
     "edition_date": "9 November 2026"
+  },
+  {
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "normalised_url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "title": "Closing the AI guidance gap in education",
+    "send_date": "2026-11-10T11:30:42.850148+00:00",
+    "edition_date": "10 November 2026"
+  },
+  {
+    "url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "normalised_url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "send_date": "2026-11-10T11:30:42.850148+00:00",
+    "edition_date": "10 November 2026"
+  },
+  {
+    "url": "https://openai.com/index/control-room",
+    "normalised_url": "https://openai.com/index/control-room",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "send_date": "2026-11-10T11:30:42.850148+00:00",
+    "edition_date": "10 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.08711",
+    "normalised_url": "https://arxiv.org/abs/2611.08711",
+    "title": "RL-ATTACK: A Generalized Black-Box Adversarial Attack on Language Models via Reinforcement Learning",
+    "send_date": "2026-11-10T11:30:42.850148+00:00",
+    "edition_date": "10 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.09042",
+    "normalised_url": "https://arxiv.org/abs/2611.09042",
+    "title": "Failure Profiling and Reachable Trajectory Selection for Reasoning Distillation",
+    "send_date": "2026-11-10T11:30:42.850148+00:00",
+    "edition_date": "10 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.09107",
+    "normalised_url": "https://arxiv.org/abs/2611.09107",
+    "title": "PhoPunct: A Large-Scale Benchmark of Transformer Architectures for Vietnamese Punctuation Restoration",
+    "send_date": "2026-11-10T11:30:42.850148+00:00",
+    "edition_date": "10 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.09222",
+    "normalised_url": "https://arxiv.org/abs/2611.09222",
+    "title": "Khmer PFGen-Bench: Building a Judge-Free Benchmark for Open-Ended Generation in a Low-Resource Language",
+    "send_date": "2026-11-10T11:30:42.850148+00:00",
+    "edition_date": "10 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.09223",
+    "normalised_url": "https://arxiv.org/abs/2611.09223",
+    "title": "KLEAR: Knowledge-Matched LLM Evaluation in Korean across Application Requirements via Controlled Benchmark Transformatio",
+    "send_date": "2026-11-10T11:30:42.850148+00:00",
+    "edition_date": "10 November 2026"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "normalised_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "send_date": "2026-11-10T11:30:42.850148+00:00",
+    "edition_date": "10 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.08892",
+    "normalised_url": "https://arxiv.org/abs/2611.08892",
+    "title": "Richness Is Not Evenness: Ordered Renyi Crossings under Self-Training",
+    "send_date": "2026-11-10T11:30:42.850148+00:00",
+    "edition_date": "10 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.08916",
+    "normalised_url": "https://arxiv.org/abs/2611.08916",
+    "title": "On the Incompleteness of do-calculus for Universal Identifiability",
+    "send_date": "2026-11-10T11:30:42.850148+00:00",
+    "edition_date": "10 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.08967",
+    "normalised_url": "https://arxiv.org/abs/2611.08967",
+    "title": "Using an LLM to Tackle Difficult Cases in NER for Nepali Tweets",
+    "send_date": "2026-11-10T11:30:42.850148+00:00",
+    "edition_date": "10 November 2026"
   }
 ]
