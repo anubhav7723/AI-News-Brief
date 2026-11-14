@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2611.07126",
-    "normalised_url": "https://arxiv.org/abs/2611.07126",
-    "title": "Adapting LLM Judges to Observed Human Annotation Policy through Soft Prompt Tuning",
-    "send_date": "2026-11-06T11:19:06.615076+00:00",
-    "edition_date": "6 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.07598",
-    "normalised_url": "https://arxiv.org/abs/2611.07598",
-    "title": "Align Before Aggregation: Basis-Consistent Federated LoRA under Heterogeneous Ranks",
-    "send_date": "2026-11-06T11:19:06.615076+00:00",
-    "edition_date": "6 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.07610",
-    "normalised_url": "https://arxiv.org/abs/2611.07610",
-    "title": "Embedding-Space Fingerprinting of LoRA Fine-Tunes: Recovering the Training-Data Domain from the Model Artifact Alone",
-    "send_date": "2026-11-06T11:19:06.615076+00:00",
-    "edition_date": "6 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.07558",
-    "normalised_url": "https://arxiv.org/abs/2611.07558",
-    "title": "SKIM: Pruning Large Language Model Agents via Selective Knowledge Informed Masking",
-    "send_date": "2026-11-06T11:19:06.615076+00:00",
-    "edition_date": "6 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.06977",
-    "normalised_url": "https://arxiv.org/abs/2611.06977",
-    "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-    "send_date": "2026-11-06T11:19:06.615076+00:00",
-    "edition_date": "6 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.06989",
-    "normalised_url": "https://arxiv.org/abs/2611.06989",
-    "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of",
-    "send_date": "2026-11-06T11:19:06.615076+00:00",
-    "edition_date": "6 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.07066",
-    "normalised_url": "https://arxiv.org/abs/2611.07066",
-    "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
-    "send_date": "2026-11-06T11:19:06.615076+00:00",
-    "edition_date": "6 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.07541",
-    "normalised_url": "https://arxiv.org/abs/2611.07541",
-    "title": "CST-Bench: Benchmarking Counterfactual Spatial Transition Reasoning with Causal Transition On-Policy Self-Distillation",
-    "send_date": "2026-11-06T11:19:06.615076+00:00",
-    "edition_date": "6 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.07624",
-    "normalised_url": "https://arxiv.org/abs/2611.07624",
-    "title": "Beneath the Surface: What We Overlook When We Talk About Agent Evolution",
-    "send_date": "2026-11-06T11:19:06.615076+00:00",
-    "edition_date": "6 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.07653",
-    "normalised_url": "https://arxiv.org/abs/2611.07653",
-    "title": "PharmAgents2: Towards Autonomous End-to-End Drug Discovery",
-    "send_date": "2026-11-06T11:19:06.615076+00:00",
-    "edition_date": "6 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.06953",
-    "normalised_url": "https://arxiv.org/abs/2611.06953",
-    "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Unce",
-    "send_date": "2026-11-06T11:19:06.615076+00:00",
-    "edition_date": "6 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.06956",
-    "normalised_url": "https://arxiv.org/abs/2611.06956",
-    "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
-    "send_date": "2026-11-06T11:19:06.615076+00:00",
-    "edition_date": "6 November 2026"
-  },
-  {
     "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
     "normalised_url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
     "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -334,5 +250,89 @@
     "title": "Using an LLM to Tackle Difficult Cases in NER for Nepali Tweets",
     "send_date": "2026-11-10T11:30:42.850148+00:00",
     "edition_date": "10 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.14681",
+    "normalised_url": "https://arxiv.org/abs/2611.14681",
+    "title": "Together Compiler: Continual Compilation for AI Inference",
+    "send_date": "2026-11-14T10:46:28.705270+00:00",
+    "edition_date": "14 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.14924",
+    "normalised_url": "https://arxiv.org/abs/2611.14924",
+    "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
+    "send_date": "2026-11-14T10:46:28.705270+00:00",
+    "edition_date": "14 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.14794",
+    "normalised_url": "https://arxiv.org/abs/2611.14794",
+    "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weigh",
+    "send_date": "2026-11-14T10:46:28.705270+00:00",
+    "edition_date": "14 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.14804",
+    "normalised_url": "https://arxiv.org/abs/2611.14804",
+    "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
+    "send_date": "2026-11-14T10:46:28.705270+00:00",
+    "edition_date": "14 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.14942",
+    "normalised_url": "https://arxiv.org/abs/2611.14942",
+    "title": "Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training",
+    "send_date": "2026-11-14T10:46:28.705270+00:00",
+    "edition_date": "14 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.14949",
+    "normalised_url": "https://arxiv.org/abs/2611.14949",
+    "title": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
+    "send_date": "2026-11-14T10:46:28.705270+00:00",
+    "edition_date": "14 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.14997",
+    "normalised_url": "https://arxiv.org/abs/2611.14997",
+    "title": "Same Task, Different Statement: When and How Reformulation Helps LLM Problem Solving",
+    "send_date": "2026-11-14T10:46:28.705270+00:00",
+    "edition_date": "14 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.15006",
+    "normalised_url": "https://arxiv.org/abs/2611.15006",
+    "title": "EvoX: Rethinking the Agent Harness as a Runtime Policy",
+    "send_date": "2026-11-14T10:46:28.705270+00:00",
+    "edition_date": "14 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.14736",
+    "normalised_url": "https://arxiv.org/abs/2611.14736",
+    "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
+    "send_date": "2026-11-14T10:46:28.705270+00:00",
+    "edition_date": "14 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.14765",
+    "normalised_url": "https://arxiv.org/abs/2611.14765",
+    "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+    "send_date": "2026-11-14T10:46:28.705270+00:00",
+    "edition_date": "14 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.14766",
+    "normalised_url": "https://arxiv.org/abs/2611.14766",
+    "title": "Rational Use of Time for Social Coordination in Humans and AI",
+    "send_date": "2026-11-14T10:46:28.705270+00:00",
+    "edition_date": "14 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.14769",
+    "normalised_url": "https://arxiv.org/abs/2611.14769",
+    "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+    "send_date": "2026-11-14T10:46:28.705270+00:00",
+    "edition_date": "14 November 2026"
   }
 ]
