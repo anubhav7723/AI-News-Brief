@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-    "normalised_url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
-    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-    "send_date": "2026-11-08T10:39:56.670513+00:00",
-    "edition_date": "8 November 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-    "normalised_url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
-    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "send_date": "2026-11-08T10:39:56.670513+00:00",
-    "edition_date": "8 November 2026"
-  },
-  {
-    "url": "https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents",
-    "normalised_url": "https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents",
-    "title": "Managed Deep Agents v0.10: Browser Use and Async Subagents",
-    "send_date": "2026-11-08T10:39:56.670513+00:00",
-    "edition_date": "8 November 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-    "normalised_url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google",
-    "title": "Crusoe sells troubled Wyoming data center project to Google",
-    "send_date": "2026-11-08T10:39:56.670513+00:00",
-    "edition_date": "8 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-    "normalised_url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-    "send_date": "2026-11-08T10:39:56.670513+00:00",
-    "edition_date": "8 November 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "normalised_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
-    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-    "send_date": "2026-11-08T10:39:56.670513+00:00",
-    "edition_date": "8 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
-    "normalised_url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
-    "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
-    "send_date": "2026-11-08T10:39:56.670513+00:00",
-    "edition_date": "8 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
-    "normalised_url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
-    "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-    "send_date": "2026-11-08T10:39:56.670513+00:00",
-    "edition_date": "8 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-    "normalised_url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-    "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-    "send_date": "2026-11-08T10:39:56.670513+00:00",
-    "edition_date": "8 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-    "normalised_url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-    "send_date": "2026-11-08T10:39:56.670513+00:00",
-    "edition_date": "8 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-    "normalised_url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-    "title": "The US let Nvidia sell chips to an empty office in China",
-    "send_date": "2026-11-08T10:39:56.670513+00:00",
-    "edition_date": "8 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-    "normalised_url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-    "title": "AI broke the cybersecurity world. What’s next?",
-    "send_date": "2026-11-08T10:39:56.670513+00:00",
-    "edition_date": "8 November 2026"
-  },
-  {
     "url": "https://arxiv.org/abs/2611.09061",
     "normalised_url": "https://arxiv.org/abs/2611.09061",
     "title": "Does Reasoning Improve Psychological Depth in Large Language Models?",
@@ -334,5 +250,89 @@
     "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
     "send_date": "2026-11-14T10:46:28.705270+00:00",
     "edition_date": "14 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "normalised_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
+    "title": "Nvidia’s Security Chief Leaves, CEO Jensen Huang Steps Down Amid Controversy",
+    "send_date": "2026-11-15T11:21:43.951488+00:00",
+    "edition_date": "15 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "normalised_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+    "title": "AI Graveyard: List of Projects and Startups That Failed to Deliver",
+    "send_date": "2026-11-15T11:21:43.951488+00:00",
+    "edition_date": "15 November 2026"
+  },
+  {
+    "url": "https://www.langchain.com/blog/goal-engineering",
+    "normalised_url": "https://www.langchain.com/blog/goal-engineering",
+    "title": "Goal Engineering: Agents That Pursue Open‑Ended Objectives",
+    "send_date": "2026-11-15T11:21:43.951488+00:00",
+    "edition_date": "15 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "normalised_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+    "title": "Elon Musk and Other Tech Executives Sign Petition to Reinstate Nvidia CEO",
+    "send_date": "2026-11-15T11:21:43.951488+00:00",
+    "edition_date": "15 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "normalised_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+    "title": "Asian Governments Respond to Nvidia CEO’s Exit",
+    "send_date": "2026-11-15T11:21:43.951488+00:00",
+    "edition_date": "15 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+    "normalised_url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+    "title": "SpaceX Successfully Executes First ‘Chopstick’ Catch of Starship",
+    "send_date": "2026-11-15T11:21:43.951488+00:00",
+    "edition_date": "15 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+    "normalised_url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+    "title": "Netflix Announces Animated Series Based on Magic: The Gathering",
+    "send_date": "2026-11-15T11:21:43.951488+00:00",
+    "edition_date": "15 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+    "normalised_url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+    "title": "FAA Ground Stop Linked to Replacement of Outdated Copper Wire",
+    "send_date": "2026-11-15T11:21:43.951488+00:00",
+    "edition_date": "15 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+    "normalised_url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+    "title": "REI’s Giant Holiday Sale Features Early Black Friday Deals",
+    "send_date": "2026-11-15T11:21:43.951488+00:00",
+    "edition_date": "15 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "normalised_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "title": "OpenAI Board Member Criticizes Trust in AI CEOs",
+    "send_date": "2026-11-15T11:21:43.951488+00:00",
+    "edition_date": "15 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+    "normalised_url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+    "title": "Tesla Offers Select Customers Cybercab for Personal Use",
+    "send_date": "2026-11-15T11:21:43.951488+00:00",
+    "edition_date": "15 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+    "normalised_url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+    "title": "CRKD Atom Plus: Tiny Gamepad with Dual Analog Thumbsticks",
+    "send_date": "2026-11-15T11:21:43.951488+00:00",
+    "edition_date": "15 November 2026"
   }
 ]
