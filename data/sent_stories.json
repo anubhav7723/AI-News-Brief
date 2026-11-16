@@ -334,5 +334,89 @@
     "title": "CRKD Atom Plus: Tiny Gamepad with Dual Analog Thumbsticks",
     "send_date": "2026-11-15T11:21:43.951488+00:00",
     "edition_date": "15 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.17340",
+    "normalised_url": "https://arxiv.org/abs/2611.17340",
+    "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+    "send_date": "2026-11-16T11:54:00.899626+00:00",
+    "edition_date": "16 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.17501",
+    "normalised_url": "https://arxiv.org/abs/2611.17501",
+    "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+    "send_date": "2026-11-16T11:54:00.899626+00:00",
+    "edition_date": "16 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.17650",
+    "normalised_url": "https://arxiv.org/abs/2611.17650",
+    "title": "Classifier-Guided Latent Diffusion for Small-Molecule Generation",
+    "send_date": "2026-11-16T11:54:00.899626+00:00",
+    "edition_date": "16 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.18257",
+    "normalised_url": "https://arxiv.org/abs/2611.18257",
+    "title": "NER-D: A cross-domain benchmark for German NER",
+    "send_date": "2026-11-16T11:54:00.899626+00:00",
+    "edition_date": "16 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.17339",
+    "normalised_url": "https://arxiv.org/abs/2611.17339",
+    "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+    "send_date": "2026-11-16T11:54:00.899626+00:00",
+    "edition_date": "16 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.17539",
+    "normalised_url": "https://arxiv.org/abs/2611.17539",
+    "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+    "send_date": "2026-11-16T11:54:00.899626+00:00",
+    "edition_date": "16 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.17610",
+    "normalised_url": "https://arxiv.org/abs/2611.17610",
+    "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent L",
+    "send_date": "2026-11-16T11:54:00.899626+00:00",
+    "edition_date": "16 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.17621",
+    "normalised_url": "https://arxiv.org/abs/2611.17621",
+    "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+    "send_date": "2026-11-16T11:54:00.899626+00:00",
+    "edition_date": "16 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.17600",
+    "normalised_url": "https://arxiv.org/abs/2611.17600",
+    "title": "LightTAR: Light and Fast Target-Aware Representations for Multimodal Tabular Learning",
+    "send_date": "2026-11-16T11:54:00.899626+00:00",
+    "edition_date": "16 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.17735",
+    "normalised_url": "https://arxiv.org/abs/2611.17735",
+    "title": "Logically Consistent Accurate Forecasts",
+    "send_date": "2026-11-16T11:54:00.899626+00:00",
+    "edition_date": "16 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.17811",
+    "normalised_url": "https://arxiv.org/abs/2611.17811",
+    "title": "AI Reviews Are Biased Towards the Appendix",
+    "send_date": "2026-11-16T11:54:00.899626+00:00",
+    "edition_date": "16 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.17931",
+    "normalised_url": "https://arxiv.org/abs/2611.17931",
+    "title": "MineralExp: Benchmarking LLM Agents for Experimental Design in Real-World Mineral Exploration",
+    "send_date": "2026-11-16T11:54:00.899626+00:00",
+    "edition_date": "16 November 2026"
   }
 ]
