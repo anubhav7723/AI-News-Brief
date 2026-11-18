@@ -1,173 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2611.09061",
-    "normalised_url": "https://arxiv.org/abs/2611.09061",
-    "title": "Does Reasoning Improve Psychological Depth in Large Language Models?",
-    "send_date": "2026-11-09T11:57:26.418158+00:00",
-    "edition_date": "9 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.09239",
-    "normalised_url": "https://arxiv.org/abs/2611.09239",
-    "title": "DUET: Dual-Sparse Inference for Block Diffusion Language Models",
-    "send_date": "2026-11-09T11:57:26.418158+00:00",
-    "edition_date": "9 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.08780",
-    "normalised_url": "https://arxiv.org/abs/2611.08780",
-    "title": "Guardrail Erosion in Domain Fine-Tuned Large Language Models: A Paired Audit of Knowledge-Centric Abstention in Biomedic",
-    "send_date": "2026-11-09T11:57:26.418158+00:00",
-    "edition_date": "9 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.08975",
-    "normalised_url": "https://arxiv.org/abs/2611.08975",
-    "title": "Beyond Truncation? Entailment-Licensed Elision and the Limits of Semantic Preservation in LLM Decoding",
-    "send_date": "2026-11-09T11:57:26.418158+00:00",
-    "edition_date": "9 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.09085",
-    "normalised_url": "https://arxiv.org/abs/2611.09085",
-    "title": "The Invisible Gap: Romanized Indic Generation Fails Where Automatic Metrics Succeed",
-    "send_date": "2026-11-09T11:57:26.418158+00:00",
-    "edition_date": "9 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.09090",
-    "normalised_url": "https://arxiv.org/abs/2611.09090",
-    "title": "MARS: Training Multilingual Search Agents for Retriever-Free Evidence Acquisition",
-    "send_date": "2026-11-09T11:57:26.418158+00:00",
-    "edition_date": "9 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.09094",
-    "normalised_url": "https://arxiv.org/abs/2611.09094",
-    "title": "AlienBench: A Benchmark of Structural Novelty in Language Model Outputs",
-    "send_date": "2026-11-09T11:57:26.418158+00:00",
-    "edition_date": "9 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.09491",
-    "normalised_url": "https://arxiv.org/abs/2611.09491",
-    "title": "An Effective Spoken Language Understanding Approach Leveraging Query-Adaptive Intent Detection",
-    "send_date": "2026-11-09T11:57:26.418158+00:00",
-    "edition_date": "9 November 2026"
-  },
-  {
-    "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
-    "normalised_url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
-    "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-    "send_date": "2026-11-09T11:57:26.418158+00:00",
-    "edition_date": "9 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.08639",
-    "normalised_url": "https://arxiv.org/abs/2611.08639",
-    "title": "Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP",
-    "send_date": "2026-11-09T11:57:26.418158+00:00",
-    "edition_date": "9 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.08643",
-    "normalised_url": "https://arxiv.org/abs/2611.08643",
-    "title": "FinEvolveKG: Controlled and Attributable Prompt Evolution for Financial Knowledge Graph Construction",
-    "send_date": "2026-11-09T11:57:26.418158+00:00",
-    "edition_date": "9 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.08683",
-    "normalised_url": "https://arxiv.org/abs/2611.08683",
-    "title": "Compression of Emotion in Language Model Representations",
-    "send_date": "2026-11-09T11:57:26.418158+00:00",
-    "edition_date": "9 November 2026"
-  },
-  {
-    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-    "normalised_url": "https://openai.com/index/closing-ai-guidance-gap-education",
-    "title": "Closing the AI guidance gap in education",
-    "send_date": "2026-11-10T11:30:42.850148+00:00",
-    "edition_date": "10 November 2026"
-  },
-  {
-    "url": "https://openai.com/index/coderabbit-codex-daybreak",
-    "normalised_url": "https://openai.com/index/coderabbit-codex-daybreak",
-    "title": "CodeRabbit scales agentic software development and ships 20x more",
-    "send_date": "2026-11-10T11:30:42.850148+00:00",
-    "edition_date": "10 November 2026"
-  },
-  {
-    "url": "https://openai.com/index/control-room",
-    "normalised_url": "https://openai.com/index/control-room",
-    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-    "send_date": "2026-11-10T11:30:42.850148+00:00",
-    "edition_date": "10 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.08711",
-    "normalised_url": "https://arxiv.org/abs/2611.08711",
-    "title": "RL-ATTACK: A Generalized Black-Box Adversarial Attack on Language Models via Reinforcement Learning",
-    "send_date": "2026-11-10T11:30:42.850148+00:00",
-    "edition_date": "10 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.09042",
-    "normalised_url": "https://arxiv.org/abs/2611.09042",
-    "title": "Failure Profiling and Reachable Trajectory Selection for Reasoning Distillation",
-    "send_date": "2026-11-10T11:30:42.850148+00:00",
-    "edition_date": "10 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.09107",
-    "normalised_url": "https://arxiv.org/abs/2611.09107",
-    "title": "PhoPunct: A Large-Scale Benchmark of Transformer Architectures for Vietnamese Punctuation Restoration",
-    "send_date": "2026-11-10T11:30:42.850148+00:00",
-    "edition_date": "10 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.09222",
-    "normalised_url": "https://arxiv.org/abs/2611.09222",
-    "title": "Khmer PFGen-Bench: Building a Judge-Free Benchmark for Open-Ended Generation in a Low-Resource Language",
-    "send_date": "2026-11-10T11:30:42.850148+00:00",
-    "edition_date": "10 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.09223",
-    "normalised_url": "https://arxiv.org/abs/2611.09223",
-    "title": "KLEAR: Knowledge-Matched LLM Evaluation in Korean across Application Requirements via Controlled Benchmark Transformatio",
-    "send_date": "2026-11-10T11:30:42.850148+00:00",
-    "edition_date": "10 November 2026"
-  },
-  {
-    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-    "normalised_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-    "title": "ChatGPT Enterprise now available in AWS Marketplace",
-    "send_date": "2026-11-10T11:30:42.850148+00:00",
-    "edition_date": "10 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.08892",
-    "normalised_url": "https://arxiv.org/abs/2611.08892",
-    "title": "Richness Is Not Evenness: Ordered Renyi Crossings under Self-Training",
-    "send_date": "2026-11-10T11:30:42.850148+00:00",
-    "edition_date": "10 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.08916",
-    "normalised_url": "https://arxiv.org/abs/2611.08916",
-    "title": "On the Incompleteness of do-calculus for Universal Identifiability",
-    "send_date": "2026-11-10T11:30:42.850148+00:00",
-    "edition_date": "10 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.08967",
-    "normalised_url": "https://arxiv.org/abs/2611.08967",
-    "title": "Using an LLM to Tackle Difficult Cases in NER for Nepali Tweets",
-    "send_date": "2026-11-10T11:30:42.850148+00:00",
-    "edition_date": "10 November 2026"
-  },
-  {
     "url": "https://arxiv.org/abs/2611.14681",
     "normalised_url": "https://arxiv.org/abs/2611.14681",
     "title": "Together Compiler: Continual Compilation for AI Inference",
@@ -418,5 +250,89 @@
     "title": "MineralExp: Benchmarking LLM Agents for Experimental Design in Real-World Mineral Exploration",
     "send_date": "2026-11-16T11:54:00.899626+00:00",
     "edition_date": "16 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.21891",
+    "normalised_url": "https://arxiv.org/abs/2611.21891",
+    "title": "Call-Efficient ICD-10 Code Prediction via Supervised Candidate Generation and Selective LLM Invocation",
+    "send_date": "2026-11-18T12:03:46.293791+00:00",
+    "edition_date": "18 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.22033",
+    "normalised_url": "https://arxiv.org/abs/2611.22033",
+    "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM",
+    "send_date": "2026-11-18T12:03:46.293791+00:00",
+    "edition_date": "18 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.22148",
+    "normalised_url": "https://arxiv.org/abs/2611.22148",
+    "title": "Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat)",
+    "send_date": "2026-11-18T12:03:46.293791+00:00",
+    "edition_date": "18 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.21647",
+    "normalised_url": "https://arxiv.org/abs/2611.21647",
+    "title": "FieldGuide: A Corpus Map for Token-Efficient Agentic Document Exploration",
+    "send_date": "2026-11-18T12:03:46.293791+00:00",
+    "edition_date": "18 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.21653",
+    "normalised_url": "https://arxiv.org/abs/2611.21653",
+    "title": "Evaluating Semantic Insensitivity in Financial Sentiment Analysis: Implications for Sustainable Financial Decision-Makin",
+    "send_date": "2026-11-18T12:03:46.293791+00:00",
+    "edition_date": "18 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.21682",
+    "normalised_url": "https://arxiv.org/abs/2611.21682",
+    "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+    "send_date": "2026-11-18T12:03:46.293791+00:00",
+    "edition_date": "18 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.21799",
+    "normalised_url": "https://arxiv.org/abs/2611.21799",
+    "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+    "send_date": "2026-11-18T12:03:46.293791+00:00",
+    "edition_date": "18 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.21937",
+    "normalised_url": "https://arxiv.org/abs/2611.21937",
+    "title": "SLED: Sensor SLicing from Edge to Datacenter",
+    "send_date": "2026-11-18T12:03:46.293791+00:00",
+    "edition_date": "18 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.21950",
+    "normalised_url": "https://arxiv.org/abs/2611.21950",
+    "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+    "send_date": "2026-11-18T12:03:46.293791+00:00",
+    "edition_date": "18 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.22017",
+    "normalised_url": "https://arxiv.org/abs/2611.22017",
+    "title": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
+    "send_date": "2026-11-18T12:03:46.293791+00:00",
+    "edition_date": "18 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.22103",
+    "normalised_url": "https://arxiv.org/abs/2611.22103",
+    "title": "From Sorry to QED: Refining LLM Math Proofs via Angelic Execution",
+    "send_date": "2026-11-18T12:03:46.293791+00:00",
+    "edition_date": "18 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.22131",
+    "normalised_url": "https://arxiv.org/abs/2611.22131",
+    "title": "LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model",
+    "send_date": "2026-11-18T12:03:46.293791+00:00",
+    "edition_date": "18 November 2026"
   }
 ]
