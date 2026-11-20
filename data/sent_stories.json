@@ -334,5 +334,89 @@
     "title": "LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model",
     "send_date": "2026-11-18T12:03:46.293791+00:00",
     "edition_date": "18 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.25071",
+    "normalised_url": "https://arxiv.org/abs/2611.25071",
+    "title": "FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evid",
+    "send_date": "2026-11-20T12:00:16.741033+00:00",
+    "edition_date": "20 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.25123",
+    "normalised_url": "https://arxiv.org/abs/2611.25123",
+    "title": "Forget Freely, Grep Later: Lossless, Index-Free Memory for Long-Horizon LLM Agents",
+    "send_date": "2026-11-20T12:00:16.741033+00:00",
+    "edition_date": "20 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.09185",
+    "normalised_url": "https://arxiv.org/abs/2603.09185",
+    "title": "DEO: Training-Free Direct Embedding Optimization for Negation-Aware Retrieval",
+    "send_date": "2026-11-20T12:00:16.741033+00:00",
+    "edition_date": "20 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.23454",
+    "normalised_url": "https://arxiv.org/abs/2611.23454",
+    "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+    "send_date": "2026-11-20T12:00:16.741033+00:00",
+    "edition_date": "20 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.23483",
+    "normalised_url": "https://arxiv.org/abs/2611.23483",
+    "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+    "send_date": "2026-11-20T12:00:16.741033+00:00",
+    "edition_date": "20 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.23639",
+    "normalised_url": "https://arxiv.org/abs/2611.23639",
+    "title": "Searching the Pareto Front: Multi-Objective Retrieval for Heterogeneous Scientific Modalities",
+    "send_date": "2026-11-20T12:00:16.741033+00:00",
+    "edition_date": "20 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.23702",
+    "normalised_url": "https://arxiv.org/abs/2611.23702",
+    "title": "KnowMe Paper Radar: Lightweight Discovery of Promising Papers in the Age of Autoresearch",
+    "send_date": "2026-11-20T12:00:16.741033+00:00",
+    "edition_date": "20 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.23749",
+    "normalised_url": "https://arxiv.org/abs/2611.23749",
+    "title": "Modeling LLM Reasoning Dynamics with Structural Representations",
+    "send_date": "2026-11-20T12:00:16.741033+00:00",
+    "edition_date": "20 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.23817",
+    "normalised_url": "https://arxiv.org/abs/2611.23817",
+    "title": "Metrics-in-the-Loop: Complexity Feedback Reshapes Agent-Written Code",
+    "send_date": "2026-11-20T12:00:16.741033+00:00",
+    "edition_date": "20 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.25252",
+    "normalised_url": "https://arxiv.org/abs/2611.25252",
+    "title": "Moving Generality from Model to Modeler: LLM Agents for PHM on a Deployment-Style Benchmark",
+    "send_date": "2026-11-20T12:00:16.741033+00:00",
+    "edition_date": "20 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.25274",
+    "normalised_url": "https://arxiv.org/abs/2611.25274",
+    "title": "DS3M: Deep structured state space models for nonlinear system identification on modern hardware",
+    "send_date": "2026-11-20T12:00:16.741033+00:00",
+    "edition_date": "20 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.24960",
+    "normalised_url": "https://arxiv.org/abs/2611.24960",
+    "title": "TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery in Design-Driven Long Documents",
+    "send_date": "2026-11-20T12:00:16.741033+00:00",
+    "edition_date": "20 November 2026"
   }
 ]
