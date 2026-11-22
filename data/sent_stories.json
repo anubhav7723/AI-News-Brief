@@ -1,173 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2611.14681",
-    "normalised_url": "https://arxiv.org/abs/2611.14681",
-    "title": "Together Compiler: Continual Compilation for AI Inference",
-    "send_date": "2026-11-14T10:46:28.705270+00:00",
-    "edition_date": "14 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.14924",
-    "normalised_url": "https://arxiv.org/abs/2611.14924",
-    "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
-    "send_date": "2026-11-14T10:46:28.705270+00:00",
-    "edition_date": "14 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.14794",
-    "normalised_url": "https://arxiv.org/abs/2611.14794",
-    "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weigh",
-    "send_date": "2026-11-14T10:46:28.705270+00:00",
-    "edition_date": "14 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.14804",
-    "normalised_url": "https://arxiv.org/abs/2611.14804",
-    "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
-    "send_date": "2026-11-14T10:46:28.705270+00:00",
-    "edition_date": "14 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.14942",
-    "normalised_url": "https://arxiv.org/abs/2611.14942",
-    "title": "Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training",
-    "send_date": "2026-11-14T10:46:28.705270+00:00",
-    "edition_date": "14 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.14949",
-    "normalised_url": "https://arxiv.org/abs/2611.14949",
-    "title": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
-    "send_date": "2026-11-14T10:46:28.705270+00:00",
-    "edition_date": "14 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.14997",
-    "normalised_url": "https://arxiv.org/abs/2611.14997",
-    "title": "Same Task, Different Statement: When and How Reformulation Helps LLM Problem Solving",
-    "send_date": "2026-11-14T10:46:28.705270+00:00",
-    "edition_date": "14 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.15006",
-    "normalised_url": "https://arxiv.org/abs/2611.15006",
-    "title": "EvoX: Rethinking the Agent Harness as a Runtime Policy",
-    "send_date": "2026-11-14T10:46:28.705270+00:00",
-    "edition_date": "14 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.14736",
-    "normalised_url": "https://arxiv.org/abs/2611.14736",
-    "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
-    "send_date": "2026-11-14T10:46:28.705270+00:00",
-    "edition_date": "14 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.14765",
-    "normalised_url": "https://arxiv.org/abs/2611.14765",
-    "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
-    "send_date": "2026-11-14T10:46:28.705270+00:00",
-    "edition_date": "14 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.14766",
-    "normalised_url": "https://arxiv.org/abs/2611.14766",
-    "title": "Rational Use of Time for Social Coordination in Humans and AI",
-    "send_date": "2026-11-14T10:46:28.705270+00:00",
-    "edition_date": "14 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.14769",
-    "normalised_url": "https://arxiv.org/abs/2611.14769",
-    "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
-    "send_date": "2026-11-14T10:46:28.705270+00:00",
-    "edition_date": "14 November 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "normalised_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
-    "title": "Nvidia’s Security Chief Leaves, CEO Jensen Huang Steps Down Amid Controversy",
-    "send_date": "2026-11-15T11:21:43.951488+00:00",
-    "edition_date": "15 November 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "normalised_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
-    "title": "AI Graveyard: List of Projects and Startups That Failed to Deliver",
-    "send_date": "2026-11-15T11:21:43.951488+00:00",
-    "edition_date": "15 November 2026"
-  },
-  {
-    "url": "https://www.langchain.com/blog/goal-engineering",
-    "normalised_url": "https://www.langchain.com/blog/goal-engineering",
-    "title": "Goal Engineering: Agents That Pursue Open‑Ended Objectives",
-    "send_date": "2026-11-15T11:21:43.951488+00:00",
-    "edition_date": "15 November 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "normalised_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
-    "title": "Elon Musk and Other Tech Executives Sign Petition to Reinstate Nvidia CEO",
-    "send_date": "2026-11-15T11:21:43.951488+00:00",
-    "edition_date": "15 November 2026"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "normalised_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
-    "title": "Asian Governments Respond to Nvidia CEO’s Exit",
-    "send_date": "2026-11-15T11:21:43.951488+00:00",
-    "edition_date": "15 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
-    "normalised_url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
-    "title": "SpaceX Successfully Executes First ‘Chopstick’ Catch of Starship",
-    "send_date": "2026-11-15T11:21:43.951488+00:00",
-    "edition_date": "15 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-    "normalised_url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-    "title": "Netflix Announces Animated Series Based on Magic: The Gathering",
-    "send_date": "2026-11-15T11:21:43.951488+00:00",
-    "edition_date": "15 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
-    "normalised_url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
-    "title": "FAA Ground Stop Linked to Replacement of Outdated Copper Wire",
-    "send_date": "2026-11-15T11:21:43.951488+00:00",
-    "edition_date": "15 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-    "normalised_url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-    "title": "REI’s Giant Holiday Sale Features Early Black Friday Deals",
-    "send_date": "2026-11-15T11:21:43.951488+00:00",
-    "edition_date": "15 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-    "normalised_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-    "title": "OpenAI Board Member Criticizes Trust in AI CEOs",
-    "send_date": "2026-11-15T11:21:43.951488+00:00",
-    "edition_date": "15 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-    "normalised_url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-    "title": "Tesla Offers Select Customers Cybercab for Personal Use",
-    "send_date": "2026-11-15T11:21:43.951488+00:00",
-    "edition_date": "15 November 2026"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-    "normalised_url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-    "title": "CRKD Atom Plus: Tiny Gamepad with Dual Analog Thumbsticks",
-    "send_date": "2026-11-15T11:21:43.951488+00:00",
-    "edition_date": "15 November 2026"
-  },
-  {
     "url": "https://arxiv.org/abs/2611.17340",
     "normalised_url": "https://arxiv.org/abs/2611.17340",
     "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
@@ -418,5 +250,89 @@
     "title": "TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery in Design-Driven Long Documents",
     "send_date": "2026-11-20T12:00:16.741033+00:00",
     "edition_date": "20 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "normalised_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "send_date": "2026-11-22T11:48:08.821597+00:00",
+    "edition_date": "22 November 2026"
+  },
+  {
+    "url": "https://www.langchain.com/blog/knowledge-factory",
+    "normalised_url": "https://www.langchain.com/blog/knowledge-factory",
+    "title": "How to build a knowledge factory for AI agents",
+    "send_date": "2026-11-22T11:48:08.821597+00:00",
+    "edition_date": "22 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "normalised_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "send_date": "2026-11-22T11:48:08.821597+00:00",
+    "edition_date": "22 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "normalised_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
+    "title": "A tale of two Nvidias",
+    "send_date": "2026-11-22T11:48:08.821597+00:00",
+    "edition_date": "22 November 2026"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "normalised_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "send_date": "2026-11-22T11:48:08.821597+00:00",
+    "edition_date": "22 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+    "normalised_url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+    "title": "Amazon is complaining about NYC Council on shipping labels, too",
+    "send_date": "2026-11-22T11:48:08.821597+00:00",
+    "edition_date": "22 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "normalised_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "title": "The UN fails to agree on rules regulating ‘killer robots’",
+    "send_date": "2026-11-22T11:48:08.821597+00:00",
+    "edition_date": "22 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+    "normalised_url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+    "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+    "send_date": "2026-11-22T11:48:08.821597+00:00",
+    "edition_date": "22 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+    "normalised_url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+    "title": "The FBI and USDA were reportedly hacked",
+    "send_date": "2026-11-22T11:48:08.821597+00:00",
+    "edition_date": "22 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+    "normalised_url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+    "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+    "send_date": "2026-11-22T11:48:08.821597+00:00",
+    "edition_date": "22 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+    "normalised_url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+    "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+    "send_date": "2026-11-22T11:48:08.821597+00:00",
+    "edition_date": "22 November 2026"
+  },
+  {
+    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "normalised_url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "title": "Can Anthropic afford to put safety first?",
+    "send_date": "2026-11-22T11:48:08.821597+00:00",
+    "edition_date": "22 November 2026"
   }
 ]
