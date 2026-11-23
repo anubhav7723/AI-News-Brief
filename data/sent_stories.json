@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2611.17340",
-    "normalised_url": "https://arxiv.org/abs/2611.17340",
-    "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
-    "send_date": "2026-11-16T11:54:00.899626+00:00",
-    "edition_date": "16 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17501",
-    "normalised_url": "https://arxiv.org/abs/2611.17501",
-    "title": "Advancing Quantization for R&R Models with Microscaling Formats",
-    "send_date": "2026-11-16T11:54:00.899626+00:00",
-    "edition_date": "16 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17650",
-    "normalised_url": "https://arxiv.org/abs/2611.17650",
-    "title": "Classifier-Guided Latent Diffusion for Small-Molecule Generation",
-    "send_date": "2026-11-16T11:54:00.899626+00:00",
-    "edition_date": "16 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.18257",
-    "normalised_url": "https://arxiv.org/abs/2611.18257",
-    "title": "NER-D: A cross-domain benchmark for German NER",
-    "send_date": "2026-11-16T11:54:00.899626+00:00",
-    "edition_date": "16 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17339",
-    "normalised_url": "https://arxiv.org/abs/2611.17339",
-    "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
-    "send_date": "2026-11-16T11:54:00.899626+00:00",
-    "edition_date": "16 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17539",
-    "normalised_url": "https://arxiv.org/abs/2611.17539",
-    "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
-    "send_date": "2026-11-16T11:54:00.899626+00:00",
-    "edition_date": "16 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17610",
-    "normalised_url": "https://arxiv.org/abs/2611.17610",
-    "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent L",
-    "send_date": "2026-11-16T11:54:00.899626+00:00",
-    "edition_date": "16 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17621",
-    "normalised_url": "https://arxiv.org/abs/2611.17621",
-    "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
-    "send_date": "2026-11-16T11:54:00.899626+00:00",
-    "edition_date": "16 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17600",
-    "normalised_url": "https://arxiv.org/abs/2611.17600",
-    "title": "LightTAR: Light and Fast Target-Aware Representations for Multimodal Tabular Learning",
-    "send_date": "2026-11-16T11:54:00.899626+00:00",
-    "edition_date": "16 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17735",
-    "normalised_url": "https://arxiv.org/abs/2611.17735",
-    "title": "Logically Consistent Accurate Forecasts",
-    "send_date": "2026-11-16T11:54:00.899626+00:00",
-    "edition_date": "16 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17811",
-    "normalised_url": "https://arxiv.org/abs/2611.17811",
-    "title": "AI Reviews Are Biased Towards the Appendix",
-    "send_date": "2026-11-16T11:54:00.899626+00:00",
-    "edition_date": "16 November 2026"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17931",
-    "normalised_url": "https://arxiv.org/abs/2611.17931",
-    "title": "MineralExp: Benchmarking LLM Agents for Experimental Design in Real-World Mineral Exploration",
-    "send_date": "2026-11-16T11:54:00.899626+00:00",
-    "edition_date": "16 November 2026"
-  },
-  {
     "url": "https://arxiv.org/abs/2611.21891",
     "normalised_url": "https://arxiv.org/abs/2611.21891",
     "title": "Call-Efficient ICD-10 Code Prediction via Supervised Candidate Generation and Selective LLM Invocation",
@@ -334,5 +250,89 @@
     "title": "Can Anthropic afford to put safety first?",
     "send_date": "2026-11-22T11:48:08.821597+00:00",
     "edition_date": "22 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.26976",
+    "normalised_url": "https://arxiv.org/abs/2611.26976",
+    "title": "MixFold: Sub-4-Bit Mixed-Precision LLM Inference via Output-Channel Grouping on Mobile NPUs",
+    "send_date": "2026-11-23T13:28:32.657031+00:00",
+    "edition_date": "23 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.26875",
+    "normalised_url": "https://arxiv.org/abs/2611.26875",
+    "title": "How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction",
+    "send_date": "2026-11-23T13:28:32.657031+00:00",
+    "edition_date": "23 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.26722",
+    "normalised_url": "https://arxiv.org/abs/2611.26722",
+    "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+    "send_date": "2026-11-23T13:28:32.657031+00:00",
+    "edition_date": "23 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.26906",
+    "normalised_url": "https://arxiv.org/abs/2611.26906",
+    "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
+    "send_date": "2026-11-23T13:28:32.657031+00:00",
+    "edition_date": "23 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.26828",
+    "normalised_url": "https://arxiv.org/abs/2611.26828",
+    "title": "Graph-XGB: A Hybrid GNN Framework for Outdoor-to-Indoor 5G Signal Reconstruction via Aerial-Only UAV RF Sensing",
+    "send_date": "2026-11-23T13:28:32.657031+00:00",
+    "edition_date": "23 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.26847",
+    "normalised_url": "https://arxiv.org/abs/2611.26847",
+    "title": "A Sparsity Analysis of Traffic Forecasting Architectures: How Much Missing Data is Too Much?",
+    "send_date": "2026-11-23T13:28:32.657031+00:00",
+    "edition_date": "23 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.27064",
+    "normalised_url": "https://arxiv.org/abs/2611.27064",
+    "title": "Dynamic Token Merging for Efficient Vision-Language Models",
+    "send_date": "2026-11-23T13:28:32.657031+00:00",
+    "edition_date": "23 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.27068",
+    "normalised_url": "https://arxiv.org/abs/2611.27068",
+    "title": "Decision Models Are General-Purpose Process Reward Models",
+    "send_date": "2026-11-23T13:28:32.657031+00:00",
+    "edition_date": "23 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.26711",
+    "normalised_url": "https://arxiv.org/abs/2611.26711",
+    "title": "Parasite Features: Causal Abstraction Through Spurious Pathways",
+    "send_date": "2026-11-23T13:28:32.657031+00:00",
+    "edition_date": "23 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.26752",
+    "normalised_url": "https://arxiv.org/abs/2611.26752",
+    "title": "Depth-Linked Residual Tokens for Multimodal Retrieval and Generation",
+    "send_date": "2026-11-23T13:28:32.657031+00:00",
+    "edition_date": "23 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.26805",
+    "normalised_url": "https://arxiv.org/abs/2611.26805",
+    "title": "LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning",
+    "send_date": "2026-11-23T13:28:32.657031+00:00",
+    "edition_date": "23 November 2026"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.26914",
+    "normalised_url": "https://arxiv.org/abs/2611.26914",
+    "title": "Multi-Tier Edge Triage: Optimizing Latency for Safe Clinical Agents",
+    "send_date": "2026-11-23T13:28:32.657031+00:00",
+    "edition_date": "23 November 2026"
   }
 ]
